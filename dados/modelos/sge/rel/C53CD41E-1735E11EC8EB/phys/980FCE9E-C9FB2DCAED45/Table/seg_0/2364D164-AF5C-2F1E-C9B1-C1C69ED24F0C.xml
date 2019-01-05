@@ -1,0 +1,52 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxySqlServerv2k5 class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.TableProxySqlServerv2k5" name="COMOPERACAO" directorySegmentName="seg_0" id="2364D164-AF5C-2F1E-C9B1-C1C69ED24F0C">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<database>DB_NULLELEMENT</database>
+<columnProxies>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="NR_ID_SENTIDO" id="3CE17051-CB99-6181-0D1F-21B2985DE9FD">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DT_CADASTRO" id="432756A1-90F8-5751-FE70-498688E74677">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DT_ALTERACAO" id="495690B1-FB91-5E99-3CD6-EBE869D71BD9">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="CD_OPERACAO" id="64002DD1-797F-8FB4-89A2-8E3FE2DE50B1">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="NR_ID_PRESENCA" id="E345351F-5484-B966-77F5-CB2ECD4A6F47">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DT_EXCLUSAO" id="E3FD517D-EEAF-C626-5559-1CE134DFFA38">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DS_OPERACAO" id="F8EBBCC5-4420-3B1C-3D7B-63EEF210CA17">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.PKProxySqlServerv2k5" name="COMOPERACAO_PK" id="C1E975A8-A5C3-AE65-7D6A-F796B7CC524C">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<clustered>true</clustered>
+</PrimaryKey>
+</primaryKeys>
+</TableProxySqlServerv2k5>

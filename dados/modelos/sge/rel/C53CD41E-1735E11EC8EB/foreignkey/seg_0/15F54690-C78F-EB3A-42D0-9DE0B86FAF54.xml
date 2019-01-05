@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="15F54690-C78F-EB3A-42D0-9DE0B86FAF54" containerWithKeyObject="C1F74C0B-D24E-EC0C-A7D8-FDEEDD7445EF" localFKIndex="7FB0128F-AA16-D222-460C-B0895D9C231F" name="SEGPERMISSAO_SEGOBJETO_FK">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:07 UTC</createdTime>
+<generatorID>8BA7B6BE-B908-26B4-0F45-2A682A659F50</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>8FF6BC6C-3C0E-2403-5BB2-B4B6796F0BE3</importedID>
+<referredTableLongName>SEGOBJETO</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>9911FC20-9824-A0A1-48C9-10F726B820AE</referredTableID>
+<keyObject>CB15096C-2EC3-4B56-D831-25FF08037D73</keyObject>
+<referredKeyID>CB15096C-2EC3-4B56-D831-25FF08037D73</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>CD_OBJETO</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

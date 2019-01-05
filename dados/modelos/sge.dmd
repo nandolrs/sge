@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="sge" id="04EA2026-77A9-77A6-270D-37B5DE6E8F89" version="3.5">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:54:52 UTC</createdTime>
+<ownerDesignName>sgeModeler14</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>04EA2026-77A9-77A6-270D-37B5DE6E8F89</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="22073467-9CA3-D80E-EF38-34EC2D9AD3FB">
+<designStoragePath>C:\Users\nando\sgeOracleModeler</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>

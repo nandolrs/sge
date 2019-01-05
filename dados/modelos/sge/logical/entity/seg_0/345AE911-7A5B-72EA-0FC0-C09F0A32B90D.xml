@@ -1,0 +1,227 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="345AE911-7A5B-72EA-0FC0-C09F0A32B90D" name="GEOENDERECO">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>2A8675EB-1E3F-074A-E73C-00252897C341</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="CD_ENDERECO" id="98536FF4-28FB-AF31-08C0-9477DA181210">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>F9299848-19DC-3F8E-02E4-B06EC17B7B0F</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+</Attribute>
+<Attribute name="DS_ENDERECO" id="46169A67-8F31-6574-DBB2-BA5ECDDFE2D3">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>2C559351-098C-3031-9E5D-93BF84C3A9C5</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>AF10CE9F-0037-5D6A-372C-F124DC29550E</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+</Attribute>
+<Attribute name="DT_CADASTRO" id="DDCE7CA2-C7C1-4F20-656B-1824794B39E4">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>75B15061-5738-0695-D80A-B0A173D5D05E</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+</Attribute>
+<Attribute name="DT_ALTERACAO" id="B5DFD8F2-0D3A-A30F-CAC4-3AE80D294557">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>2E905F30-9734-BB56-827B-5C9184C242D6</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+</Attribute>
+<Attribute name="DT_EXCLUSAO" id="FBE52570-B690-79B9-4908-713E985555CE">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>ED4A6C65-5165-A4DF-AB8B-3DA3FDC80106</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+</Attribute>
+<Attribute name="DS_LOGRADOURO" id="C59B8793-79EA-878B-3698-1BCF45EE8F6F">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>CBEDF794-60D4-A96F-208F-A5197E37D481</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>AF10CE9F-0037-5D6A-372C-F124DC29550E</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+</Attribute>
+<Attribute name="DS_NUMERO" id="B6FFDD3C-8DEA-58FD-1F86-EE2D0DF82912">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>5EC8E1A1-AEBB-534B-5895-980FFD51C65B</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>AF10CE9F-0037-5D6A-372C-F124DC29550E</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+</Attribute>
+<Attribute name="DS_COMPLEMENTO" id="9C9AF0D4-E98E-92AE-6B23-F81BFF42E08C">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>D7C132DB-17FB-6CBB-497A-204BFECA9EE9</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>AF10CE9F-0037-5D6A-372C-F124DC29550E</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+</Attribute>
+<Attribute name="DS_BAIRRO" id="E17C1E99-CBAD-C13F-E794-110241B9D20B">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>ED40DA63-B9A3-E992-9C77-54353F258194</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>AF10CE9F-0037-5D6A-372C-F124DC29550E</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+</Attribute>
+<Attribute name="NR_CEP" id="7E47D570-F10A-CE6A-2411-02A0AE0D3B5F">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>297AC685-6C74-12AC-C9E4-56ACD6B1EEAB</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>63AE1BD2-CCE8-A853-6D36-41E2787D52E1</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+</Attribute>
+<Attribute name="CD_PESSOA" id="B4901A4E-5EF9-678D-4BEB-0EA5FE38DBAC">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>5FB4B614-5FD5-AC6B-B664-5C764E5D1A67</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>03172E12-B979-C0E6-2F24-038662E5E170</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<referedAttribute>1F565572-4F39-5C3F-5CD1-32445E245A54</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<preferredAbbreviation>CD_PESSOA</preferredAbbreviation>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="D637C6FB-2553-03A2-8CE4-6B150A16EC8D" name="GEOENDERECO PK">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>533354BD-2CF5-8F3B-AD45-BA5075A53850</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+<usedAttributes>
+<attributeRef>98536FF4-28FB-AF31-08C0-9477DA181210</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

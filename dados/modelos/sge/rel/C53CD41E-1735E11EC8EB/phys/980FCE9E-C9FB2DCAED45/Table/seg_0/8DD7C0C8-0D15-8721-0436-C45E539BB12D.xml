@@ -1,0 +1,64 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxySqlServerv2k5 class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.TableProxySqlServerv2k5" name="MATEMBALADO" directorySegmentName="seg_0" id="8DD7C0C8-0D15-8721-0436-C45E539BB12D">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<database>DB_NULLELEMENT</database>
+<columnProxies>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DT_CADASTRO" id="2116C319-7E7A-9D83-AE9F-52A9ACD5DC32">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="CD_PRODUTO" id="39DC2EF6-FAF1-6163-D0B8-82850733656D">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="CD_EMBALAGEM" id="6CF0DBF5-81BC-FB24-020B-C90CDA8B50A0">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="CD_EMBALADO" id="A9892F16-673F-339A-F213-2A0B39D2D0A5">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DT_ALTERACAO" id="B2B9155F-EBCA-B77B-4480-FD2630577265">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DS_EMBALADO" id="CA1AECD7-F3A7-3320-565E-E86303018CEA">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DT_EXCLUSAO" id="DB90E3CE-AF95-9E14-37C3-142A98B52C26">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<foreignKeys>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.FKProxySqlServerv2k5" name="MATEMBALADO_MATEMBALAGEM_FK" id="562436E2-ECB3-215A-440E-04AAC1EA4844">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sgeModeler14</ownerDesignName>
+</ForeignKey>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.FKProxySqlServerv2k5" name="MATEMBALADO_MATPRODUTO_FK" id="89B36C3E-6F88-34ED-F715-3D69D94B6F77">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sgeModeler14</ownerDesignName>
+</ForeignKey>
+</foreignKeys>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.PKProxySqlServerv2k5" name="MATEMBALADO_PK" id="11635221-7CE7-ED29-6F55-21380CDFC301">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<clustered>true</clustered>
+</PrimaryKey>
+</primaryKeys>
+</TableProxySqlServerv2k5>

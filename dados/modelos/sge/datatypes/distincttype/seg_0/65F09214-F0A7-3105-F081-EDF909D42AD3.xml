@@ -1,0 +1,12 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<DistinctType class="oracle.dbtools.crest.model.design.datatypes.DistinctType" name="CF_DATA_HORA" directorySegmentName="seg_0" id="65F09214-F0A7-3105-F081-EDF909D42AD3">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:04 UTC</createdTime>
+<generatorID>0AB9C9AC-2B20-B73A-507D-9B513CE8466D</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>0AB9C9AC-2B20-B73A-507D-9B513CE8466D</importedID>
+<predefined>false</predefined>
+<logicalDataType>LOGDT017</logicalDataType>
+<precision>0</precision>
+<scale>0</scale>
+</DistinctType>

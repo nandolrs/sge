@@ -1,0 +1,25 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Diagram class="oracle.dbtools.crest.swingui.logical.DPVLogicalSubView" name="IIT" id="18913CD1-E106-A087-BF7D-F9DCF518375B">
+<createdBy>nando</createdBy>
+<modifiedBy>nando</modifiedBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<autoRoute>false</autoRoute>
+<boxInbox>true</boxInbox>
+<showLegend>false</showLegend>
+<showLabels>false</showLabels>
+<showRelAttributes>false</showRelAttributes>
+<gridEnabled>false</gridEnabled>
+<showGrid>false</showGrid>
+<diagramColor>-1</diagramColor>
+<comment>Instituições&lt;br/&gt;</comment>
+<display>false</display>
+<generatorId>7ACDA9AF-A073-8315-EEEE-B0CCA6B9A01F</generatorId>
+<importedid>7ACDA9AF-A073-8315-EEEE-B0CCA6B9A01F</importedid>
+<notation>0</notation>
+<objectViews>
+<OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="7EF8E4CD-2D75-3958-5B7B-70F077D50E5D" otype="Entity" vid="8DEF6498-CFE0-0FF2-C6A6-4026B56DAEC6">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="27" y="17" width="268" height="241"/>
+</OView>
+</objectViews>
+</Diagram>

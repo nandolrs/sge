@@ -1,0 +1,111 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="C631499A-3AE0-4F0E-567C-B2FC6EF56970" name="CLBUSUARIO_ORGANIZ">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>9DA8BC41-C223-146F-3B50-0907F7B111CC</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="CD_USUARIO_ORGANIZ" id="C59E49C0-221C-0039-302B-C375F6C0C360">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>506CD244-8D35-9D7E-FB93-00F715986693</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+</Attribute>
+<Attribute name="CD_USUARIO" id="C4E6E09F-0081-C6BE-41AD-A7AAA89C0BA5">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>ACD4EF55-7FB4-E975-C187-FB48B3EF8197</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>C64A95B7-90A7-B0E4-3C83-E56B3572E6A8</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<referedAttribute>3ACBC3E0-2706-4495-8466-55D9E7B25A36</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<preferredAbbreviation>CD_USUARIO</preferredAbbreviation>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+</Attribute>
+<Attribute name="CD_ORGANIZACAO" id="4D086D31-34AE-D4FC-B26C-7C9DC0892C1C">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>3B536289-B678-F142-C2E4-6D8B731F6B39</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>A02926A1-CE67-BCB1-E714-47E7F126CDC6</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<referedAttribute>0ED39D43-E261-8BC9-9014-4827208FC694</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<preferredAbbreviation>CD_ORGANIZACAO</preferredAbbreviation>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+</Attribute>
+<Attribute name="ID_ADMIN" id="275FA7C4-CB6F-0BFD-B59E-9E1B07739BBC">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>BF62110C-5495-309A-47CD-1DF5FCAA04CF</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>78F92357-7A8C-9E75-7092-6E845CCB290F</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="E34E4566-7887-8A33-3FCB-FE09BA5228EC" name="CLBUSUARIOCOLABORAR PK">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>FE7F94BB-333C-A5E3-03B7-B86CAF4E11F1</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+<usedAttributes>
+<attributeRef>C59E49C0-221C-0039-302B-C375F6C0C360</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

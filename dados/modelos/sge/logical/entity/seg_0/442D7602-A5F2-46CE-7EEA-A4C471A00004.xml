@@ -1,0 +1,124 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="442D7602-A5F2-46CE-7EEA-A4C471A00004" name="GEOCONTINENTE">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>C1E52655-CA31-F537-9A02-345E1B188159</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<shortName>CONTINENTE</shortName>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="CD_CONTINENTE" id="088707C1-A095-EEEC-AC9E-1A0A0A425107">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>F0B57864-A79F-14AE-0CB8-137A8F1AB45D</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+</Attribute>
+<Attribute name="DS_CONTINENTE" id="12C5E4B3-F674-91EC-9668-002D2D5DDD64">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>B9B30FCA-35B8-A16F-E6E1-80E5A0DBEE05</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>AF10CE9F-0037-5D6A-372C-F124DC29550E</distinctType>
+<dataTypeSize>60</dataTypeSize>
+<ownDataTypeParameters>60,,</ownDataTypeParameters>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+</Attribute>
+<Attribute name="DT_CADASTRO" id="C20C4D6E-CBA8-CA26-3AFB-FC3B1F8B49D3">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>797C7DA3-5233-4576-5D52-2B31B82A613A</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+</Attribute>
+<Attribute name="DT_EXCLUSAO" id="5DAA5291-2A7B-6716-464C-79C04A724D93">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>08F82719-D3D1-7A64-70B5-112307905A8B</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+</Attribute>
+<Attribute name="DT_ALTERACAO" id="1EAC4919-8BEB-1400-02C0-ACFA78E6E780">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>4C23D413-E6FE-734C-992F-3887FA023963</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="65E0A557-E17A-A5A5-C5F1-E6189F5011FC" name="GEOCONTINENTE PK">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>30A61915-08DD-E27B-AFDC-1DEEA947AFC1</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<propertyMap>
+<property name="engineerTo" value=""/>
+</propertyMap>
+<usedAttributes>
+<attributeRef>088707C1-A095-EEEC-AC9E-1A0A0A425107</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

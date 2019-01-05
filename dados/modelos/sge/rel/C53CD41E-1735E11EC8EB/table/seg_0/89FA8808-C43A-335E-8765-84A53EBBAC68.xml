@@ -1,0 +1,143 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="89FA8808-C43A-335E-8765-84A53EBBAC68" name="GEOUF">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>64AB5892-EC7E-92C2-BFA7-186BF3715F14</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>FA044205-2B15-EA74-7DBB-A84DA8D54619</importedID>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="CD_UF" id="CE2D2859-2ECD-6ECD-57C4-3B1024FD7639">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>4FB5A3B6-EA38-B647-4F35-983A23B0318D</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>FBBFC649-564B-0502-F61D-8BD13241D3E1</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DS_UF" id="CE4E9231-8B7E-7ACE-1DEF-21E3779924EF">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>F6FF4FDE-50CF-8546-1E72-0FD831B5F558</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>3FD282AF-C589-9BEA-6837-041CB3D59B82</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>AF10CE9F-0037-5D6A-372C-F124DC29550E</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_CADASTRO" id="F136775B-E768-239D-638E-729298418376">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>6D39E195-9216-6658-EBB1-94FA88C7C350</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>3F46D4FD-52E2-C6DE-9BAA-E3B843803F0A</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_EXCLUSAO" id="DFF68504-5D94-9487-04F7-41E4FDD0561D">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>FA2EAC80-2E14-C0CE-13B9-A3BFB079B1AB</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>37139345-61F6-E200-7568-283D3FF72BA7</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="CD_PAIS" id="36ECD38D-5A68-D5B1-238C-8AD47E098EA2">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>A9BC1139-AD38-4010-007F-E745854FC420</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>465919E5-9FEE-7A4A-5497-DF1C127CBA7E</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="CAA71032-CE5C-4B5E-8503-090A773162A7" referredColumn="93BF170E-200A-FDCD-A6C0-539272E391C8"/>
+</associations>
+</Column>
+<Column name="DT_ALTERACAO" id="038A442E-5B92-EBE3-C6D5-DBF195372A8B">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>674584D8-A889-A960-9F28-A3E35A098B95</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>292CF048-B1FE-6517-91BC-0A8FDC1DBEF3</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DS_SIGLA" id="34DEF4B2-8284-75E8-1993-E9E1293E055B">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>617DA03B-4FFC-123E-474E-0442AB4593DE</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>D3A21025-654C-884C-0AED-20B12D869F79</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>7855815B-1323-3E8F-C78F-4E062776EA1D</distinctType>
+<dataTypeSize>2</dataTypeSize>
+<ownDataTypeParameters>2,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="8820881D-1923-0108-FB32-7EBD096E4947" name="GEOUF_PK">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>DCF42A16-0424-EF2B-9B9A-2A9475105693</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>AF7F85D9-DBDF-227D-5BDA-394F7ED4FF4F</importedID>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="CE2D2859-2ECD-6ECD-57C4-3B1024FD7639"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="612C201B-3655-DF93-11D2-88C9FF86359B" name="UF_CD_PAIS_CD_UF_DS_SIGLA">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>390AE6C8-92ED-C8F6-200C-A11E964066C0</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>5DD2751E-755E-02F5-0719-C80358D8EEE8</importedID>
+<indexState>Unique Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="36ECD38D-5A68-D5B1-238C-8AD47E098EA2"/>
+<colUsage columnID="CE2D2859-2ECD-6ECD-57C4-3B1024FD7639"/>
+<colUsage columnID="34DEF4B2-8284-75E8-1993-E9E1293E055B"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="258069D3-5930-0855-1A38-D9299F27162F" name="GEOUF_GEOPAIS_FK">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:07 UTC</createdTime>
+<generatorID>EB6079D6-BFA7-0BE8-D482-B8B4DE5F2A66</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="36ECD38D-5A68-D5B1-238C-8AD47E098EA2"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

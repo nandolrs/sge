@@ -1,0 +1,66 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxySqlServerv2k5 class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.TableProxySqlServerv2k5" name="GEOUF" directorySegmentName="seg_0" id="89FA8808-C43A-335E-8765-84A53EBBAC68">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<database>DB_NULLELEMENT</database>
+<columnProxies>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DT_ALTERACAO" id="038A442E-5B92-EBE3-C6D5-DBF195372A8B">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DS_SIGLA" id="34DEF4B2-8284-75E8-1993-E9E1293E055B">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="CD_PAIS" id="36ECD38D-5A68-D5B1-238C-8AD47E098EA2">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="CD_UF" id="CE2D2859-2ECD-6ECD-57C4-3B1024FD7639">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DS_UF" id="CE4E9231-8B7E-7ACE-1DEF-21E3779924EF">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DT_EXCLUSAO" id="DFF68504-5D94-9487-04F7-41E4FDD0561D">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DT_CADASTRO" id="F136775B-E768-239D-638E-729298418376">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<foreignKeys>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.FKProxySqlServerv2k5" name="GEOUF_GEOPAIS_FK" id="258069D3-5930-0855-1A38-D9299F27162F">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sgeModeler14</ownerDesignName>
+</ForeignKey>
+</foreignKeys>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.PKProxySqlServerv2k5" name="GEOUF_PK" id="8820881D-1923-0108-FB32-7EBD096E4947">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<clustered>true</clustered>
+</PrimaryKey>
+</primaryKeys>
+<uniqueKeys>
+<UniqueKey class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.UniqueProxySqlServerv2k5" name="UF_CD_PAIS_CD_UF_DS_SIGLA" id="612C201B-3655-DF93-11D2-88C9FF86359B">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:00:19 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</UniqueKey>
+</uniqueKeys>
+</TableProxySqlServerv2k5>

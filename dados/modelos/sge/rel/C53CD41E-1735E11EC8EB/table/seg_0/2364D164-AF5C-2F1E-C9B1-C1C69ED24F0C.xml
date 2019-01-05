@@ -1,0 +1,115 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="2364D164-AF5C-2F1E-C9B1-C1C69ED24F0C" name="COMOPERACAO">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>19B07C18-71C8-9766-1687-C623419E1F94</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>DB18A589-22AB-EEB7-BDBA-C0DB0EE549CC</importedID>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="CD_OPERACAO" id="64002DD1-797F-8FB4-89A2-8E3FE2DE50B1">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>25A8CF43-0393-C182-E16B-4C8075FAC563</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>77C29377-E4B3-D985-AA05-884A2517DAA2</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DS_OPERACAO" id="F8EBBCC5-4420-3B1C-3D7B-63EEF210CA17">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>59229471-88D5-08A4-B6E5-0A310782E6E7</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>3E34AA30-9B66-1BC4-53FE-7F7EEC54DC9A</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>AF10CE9F-0037-5D6A-372C-F124DC29550E</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_CADASTRO" id="432756A1-90F8-5751-FE70-498688E74677">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>0D6C3ED5-C07C-BC82-DFC5-E2B18F2D6486</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>92D13BA4-5232-F687-B402-0F46907CD2A0</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_ALTERACAO" id="495690B1-FB91-5E99-3CD6-EBE869D71BD9">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>88940D5C-709A-8050-4B99-11CF30E2F388</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>3F4D583C-3B73-2986-A55F-BFDC0D99C19A</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_EXCLUSAO" id="E3FD517D-EEAF-C626-5559-1CE134DFFA38">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>76819D31-EB6F-6F70-C505-C81DB6EF43A0</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>BF117E0F-DF89-C050-8EEC-307CFD1E7BBD</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NR_ID_SENTIDO" id="3CE17051-CB99-6181-0D1F-21B2985DE9FD">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<comment>0 = entrada&lt;br/&gt;1 = saída&lt;br/&gt;</comment>
+<generatorID>65BD6893-5446-2CD8-FA60-4EA310CB0CCB</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>C4761B9C-9AAB-0658-B428-D0E32D1BD2D4</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>63AE1BD2-CCE8-A853-6D36-41E2787D52E1</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NR_ID_PRESENCA" id="E345351F-5484-B966-77F5-CB2ECD4A6F47">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<comment>0=Não se aplica (por exemplo, Nota Fiscal complementar ou de ajuste);&lt;br/&gt;1=Operação presencial;&lt;br/&gt;2=Operação não presencial, pela Internet;&lt;br/&gt;3=Operação não presencial, Teleatendimento;&lt;br/&gt;4=NFC-e em operação com entrega a domicílio;&lt;br/&gt;9=Operação não presencial, outros.</comment>
+<generatorID>DDDBC2E1-30E8-599B-256C-A4576FBD2DD7</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>D3F57072-5527-BAB4-4D12-E1414EE29F95</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>63AE1BD2-CCE8-A853-6D36-41E2787D52E1</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="C1E975A8-A5C3-AE65-7D6A-F796B7CC524C" name="COMOPERACAO_PK">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>E0BAAB1A-2992-4585-9A38-7409CA2E7053</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>14CC72F7-FFF3-B247-3787-ED4DD3717339</importedID>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="64002DD1-797F-8FB4-89A2-8E3FE2DE50B1"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

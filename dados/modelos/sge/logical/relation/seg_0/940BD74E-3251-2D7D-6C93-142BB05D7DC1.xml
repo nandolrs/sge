@@ -1,0 +1,21 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Relation_5" directorySegmentName="seg_0" id="940BD74E-3251-2D7D-6C93-142BB05D7DC1">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>BA826EF9-BCB0-E16C-A307-23DE21BB4E18</importedID>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<sourcePk>65E0A557-E17A-A5A5-C5F1-E6189F5011FC</sourcePk>
+<identifying>false</identifying>
+<nameOnTarget>CD_CONTINENTE</nameOnTarget>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>442D7602-A5F2-46CE-7EEA-A4C471A00004</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>D332B42B-CC5A-D3F4-102F-03E31AC4C2D5</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

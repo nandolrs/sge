@@ -1,0 +1,10 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<SequenceSqlServerv2k12 class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.SequenceSqlServerv2k12" name="GEOPAIS_SEQ" directorySegmentName="seg_0" id="0C7D800D-E1E1-F0B1-50E8-6D2664E9AE7F">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 13:07:29 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<database>DB_NULLELEMENT</database>
+<incrementBy>1</incrementBy>
+<minValue>1</minValue>
+<startWith>1</startWith>
+</SequenceSqlServerv2k12>

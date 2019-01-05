@@ -1,0 +1,90 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="F4A9EE3F-B9BF-37AD-54BA-F23750606060" name="CLBORGANIZACAO">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>63D260C7-FA7D-9D18-6766-2D94D273C175</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>DADE3321-ABD7-B5D0-2F3E-4646805B8DA5</importedID>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="CD_ORGANIZACAO" id="486ACF59-D775-1D15-D147-5B7297CEB84E">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>0ED39D43-E261-8BC9-9014-4827208FC694</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>D5235097-ED04-58A2-936F-C36CEAD9F506</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DS_ORGANIZACAO" id="8D0B6FED-728B-9266-83FD-687F8B0FB615">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>5FBDF2FA-D5AB-5E18-8DEC-E2EC81F1F240</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>DB66AE09-9998-B1E5-23F3-80A71BC68B6F</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>2D8DC8D7-AB7E-7C34-D11F-303FDA2FB81E</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_CADASTRO" id="1FE00107-A0B2-6D84-BB46-D4BE68A92F30">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>83FAC82D-3ECD-6463-864E-79DEF69A1074</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>18283E69-60C9-7DC8-A416-664C66D8C2F8</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_ALTERACAO" id="0B7658DE-CB5B-4EA6-F567-48E326FC7FE8">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>C667797E-FB6D-BF6D-B199-D4FC2E66A791</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>F069A464-3EA4-CE85-E3EC-03355D9B6A21</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_EXCLUSAO" id="01C6B697-BAA9-32D1-13CD-CF99A79DC375">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>00210C06-81D3-862C-5D58-B53CCEBBDCEC</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>B64F1790-6DF3-9F0C-AFF7-E56D17410472</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="98B5F831-63C5-3595-9AEB-616B5006BAA5" name="CLBORGANIZACAO_PK">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>7CFAF054-71E8-9EDE-BC7D-437B48411FE0</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>98993DDF-B835-EDC2-FD9F-139A2B04F07F</importedID>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="486ACF59-D775-1D15-D147-5B7297CEB84E"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

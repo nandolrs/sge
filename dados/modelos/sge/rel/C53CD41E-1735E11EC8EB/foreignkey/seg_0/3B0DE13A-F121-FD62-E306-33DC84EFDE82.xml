@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="3B0DE13A-F121-FD62-E306-33DC84EFDE82" containerWithKeyObject="548986F0-85F5-C063-90B8-67F052CC3567" localFKIndex="3E23C436-CFBE-11B8-806C-B5B1A3E7EEBB" name="MATPRODUTO_MATCLASSE_FK">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:07 UTC</createdTime>
+<generatorID>594FBAC2-0679-E864-6F57-BE75BA290EC3</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>A8224B35-D026-0EA8-EFFE-21FFF8BC8694</importedID>
+<referredTableLongName>MATCLASSE</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>1434C683-E12F-C12D-6B57-78FE9027671F</referredTableID>
+<keyObject>065B51EF-9418-D76B-D18A-DE18693AC68C</keyObject>
+<referredKeyID>065B51EF-9418-D76B-D18A-DE18693AC68C</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>CD_CLASSE</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

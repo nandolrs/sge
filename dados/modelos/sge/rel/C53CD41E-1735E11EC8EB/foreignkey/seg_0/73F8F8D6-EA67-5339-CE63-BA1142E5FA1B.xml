@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="73F8F8D6-EA67-5339-CE63-BA1142E5FA1B" containerWithKeyObject="C1F74C0B-D24E-EC0C-A7D8-FDEEDD7445EF" localFKIndex="03000E01-AD3B-309D-6230-99231D96CBCF" name="SEGPERMISSAO_SEGPERFIL_FK">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:07 UTC</createdTime>
+<generatorID>5E36807D-E746-2FDF-A93E-3C141BB5F54C</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>ADF78F41-4D12-FF4B-E87C-29DDD766568F</importedID>
+<referredTableLongName>SEGPERFIL</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>73E15B77-332A-AB86-10C3-A03614832DC3</referredTableID>
+<keyObject>67F15A1D-678C-603D-823F-C2CA1990A11B</keyObject>
+<referredKeyID>67F15A1D-678C-603D-823F-C2CA1990A11B</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>CD_PERFIL</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

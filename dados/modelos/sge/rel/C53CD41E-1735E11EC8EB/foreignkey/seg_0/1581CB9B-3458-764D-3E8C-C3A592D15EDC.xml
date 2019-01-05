@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="1581CB9B-3458-764D-3E8C-C3A592D15EDC" containerWithKeyObject="92F6A273-116B-7948-DE3C-DADFE10F0DC4" localFKIndex="81D385C9-7A28-4692-56F6-5797D56B7DED" name="GEOPAIS_GEOCONTINENTE_FK">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:07 UTC</createdTime>
+<generatorID>940BD74E-3251-2D7D-6C93-142BB05D7DC1</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>3492C261-CAE7-509C-A09D-51DB14D936CC</importedID>
+<referredTableLongName>GEOCONTINENTE</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>640E6BDE-395B-75AD-6C55-60F4AEFD7180</referredTableID>
+<keyObject>B71C4C63-C553-C78A-EA49-CCB57C12A77A</keyObject>
+<referredKeyID>B71C4C63-C553-C78A-EA49-CCB57C12A77A</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>CD_CONTINENTE</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

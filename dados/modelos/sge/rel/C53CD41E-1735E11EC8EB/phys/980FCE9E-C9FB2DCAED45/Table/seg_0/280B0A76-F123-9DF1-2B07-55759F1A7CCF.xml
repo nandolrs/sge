@@ -1,0 +1,59 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxySqlServerv2k5 class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.TableProxySqlServerv2k5" name="SEGTOKEN" directorySegmentName="seg_0" id="280B0A76-F123-9DF1-2B07-55759F1A7CCF">
+<createdBy>nando</createdBy>
+<createdTime>2018-03-29 11:36:56 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<database>DB_NULLELEMENT</database>
+<columnProxies>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="CD_TOKEN" id="065AF28B-2EC5-5485-57C2-EAA594F7F730">
+<createdBy>nando</createdBy>
+<createdTime>2018-03-29 11:36:56 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DS_IP_CLIENTE" id="49918B34-7A21-13A1-0431-675B447DC74B">
+<createdBy>nando</createdBy>
+<createdTime>2018-03-29 11:36:56 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DS_TOKEN" id="71F951E9-D419-FB43-B635-40193CE5054B">
+<createdBy>nando</createdBy>
+<createdTime>2018-03-29 11:36:56 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="CD_USUARIO" id="A708ED92-04B5-7701-A4E3-A5ED2D0C5C71">
+<createdBy>nando</createdBy>
+<createdTime>2018-03-29 11:36:56 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DT_ALTERACAO" id="AE4395B0-2132-B629-DCE4-36F86F65A08B">
+<createdBy>nando</createdBy>
+<createdTime>2018-03-29 11:36:56 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DT_EXCLUSAO" id="B6C0AF93-EE3F-09B6-F67D-64411F4A874F">
+<createdBy>nando</createdBy>
+<createdTime>2018-03-29 11:36:56 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DT_CADASTRO" id="E9EB16B2-F1BD-F336-60FF-CE0E14A3CB21">
+<createdBy>nando</createdBy>
+<createdTime>2018-03-29 11:36:56 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<foreignKeys>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.FKProxySqlServerv2k5" name="SEGTOKEN_SEGUSUARIO_FK" id="F17AB6F7-CA55-EABE-8152-5C5138970F76">
+<createdBy>nando</createdBy>
+<createdTime>2018-03-29 11:36:56 UTC</createdTime>
+<ownerDesignName>sgeModeler14</ownerDesignName>
+</ForeignKey>
+</foreignKeys>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.PKProxySqlServerv2k5" name="SEGTOKEN_PK" id="A8B783A9-5EA2-C4EC-86DA-0EFB971CD592">
+<createdBy>nando</createdBy>
+<createdTime>2018-03-29 11:36:56 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<clustered>true</clustered>
+</PrimaryKey>
+</primaryKeys>
+</TableProxySqlServerv2k5>

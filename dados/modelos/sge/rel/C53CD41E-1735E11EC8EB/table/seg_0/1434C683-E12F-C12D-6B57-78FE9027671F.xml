@@ -1,0 +1,89 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="1434C683-E12F-C12D-6B57-78FE9027671F" name="MATCLASSE">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>B9AD9A49-2AF3-2A16-7E0B-086AB9F0B6C9</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>5586C90E-3B1E-8B95-55FE-4286BD64B875</importedID>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="CD_CLASSE" id="182D9486-A816-92CA-2427-D3247547F4ED">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>5F4E4671-4FFA-3F4B-26B4-4B8F37AEC175</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>8DB94925-102A-3192-1D63-EA624C545D1D</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DS_CLASSE" id="3BCFAC68-EDEE-F2CE-7526-630505362717">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>052DEEDC-A3D3-7BE9-A27C-98A22EC10AD4</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>5348E60D-F0B9-6EA2-BE7C-33B1C42590DB</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>AF10CE9F-0037-5D6A-372C-F124DC29550E</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_CADASTRO" id="0E2B1D34-0CDC-6D0E-E9F0-FBA97078CD5B">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>AF3D005A-4A4B-C24C-63B3-2F34487447DC</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>5C90F053-BA53-A10D-4B9C-37397232E4DD</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_EXCLUSAO" id="51A8B670-C3C9-6788-2987-FE584D0309FA">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>197FE533-5331-0040-140F-57EDB31AFBDF</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>9765032E-BD64-FE35-EE1D-CEF44D7FF03F</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_ALTERACAO" id="FB53BC0D-20B5-9822-5C7A-901D565254F5">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>B3254283-F15E-86BE-C31D-8C7BDC8ADE98</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>B58004F2-7018-5E51-1423-A62B0EF6192E</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="065B51EF-9418-D76B-D18A-DE18693AC68C" name="MATCLASSE_PK">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>0AF1AA2D-E886-67CB-193E-79B9E5FF6CCC</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>7380F11F-BFE4-0BB2-EB6F-EBC3401C4F52</importedID>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="182D9486-A816-92CA-2427-D3247547F4ED"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

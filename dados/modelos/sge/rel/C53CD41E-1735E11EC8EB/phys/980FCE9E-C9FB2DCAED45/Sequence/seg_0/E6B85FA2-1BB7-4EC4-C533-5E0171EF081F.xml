@@ -1,0 +1,10 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<SequenceSqlServerv2k12 class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.SequenceSqlServerv2k12" name="SEGTOKEN_SEQ" directorySegmentName="seg_0" id="E6B85FA2-1BB7-4EC4-C533-5E0171EF081F">
+<createdBy>nando</createdBy>
+<createdTime>2018-03-29 11:48:11 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<database>DB_NULLELEMENT</database>
+<incrementBy>1</incrementBy>
+<minValue>1</minValue>
+<startWith>1</startWith>
+</SequenceSqlServerv2k12>

@@ -1,0 +1,125 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="E2F4DCAB-6FFA-20A1-BA02-08798DBD167A" name="SEGTOKEN">
+<createdBy>nando</createdBy>
+<createdTime>2018-03-29 11:23:40 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="false"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="CD_TOKEN" id="28B1FE0C-1E42-D378-5292-999BEF38302B">
+<createdBy>nando</createdBy>
+<createdTime>2018-03-29 11:23:53 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="false"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="DS_TOKEN" id="F0EEF7CD-4F03-9438-3A7F-04D299C38158">
+<createdBy>nando</createdBy>
+<createdTime>2018-03-29 11:24:07 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="false"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>CB067DC1-024C-11FB-3E2E-59CE192AEEF9</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="DS_IP_CLIENTE" id="345B7FD1-5815-847C-5DC5-EEAE6B8E71F5">
+<createdBy>nando</createdBy>
+<createdTime>2018-03-29 11:24:40 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>2D8DC8D7-AB7E-7C34-D11F-303FDA2FB81E</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="DT_CADASTRO" id="EB83DA12-B46C-C475-FCAA-32EAE081F584">
+<createdBy>nando</createdBy>
+<createdTime>2018-03-29 11:25:56 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="DT_ALTERACAO" id="4E942F31-FC81-3403-8451-FA6B4A22CA77">
+<createdBy>nando</createdBy>
+<createdTime>2018-03-29 11:26:06 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="DT_EXCLUSAO" id="7893B6FC-27DD-89F3-1118-9E4AC267ABCF">
+<createdBy>nando</createdBy>
+<createdTime>2018-03-29 11:26:17 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="false"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="CD_USUARIO" id="5398C087-4D46-E01C-7E6F-A5D78F5D57BB">
+<createdBy>nando</createdBy>
+<createdTime>2018-03-29 11:31:57 UTC</createdTime>
+<generatorID>6CBEA8C3-A9F9-6008-FCA9-05222FEDD65A</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+</engineerTo>
+<referedAttribute>3ACBC3E0-2706-4495-8466-55D9E7B25A36</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="02D4CBBB-58DE-FDC7-6EA1-68A39C989C6C" name="SEGTOKEN PK">
+<createdBy>nando</createdBy>
+<createdTime>2018-03-29 11:24:04 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
+<engineerTo>
+<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="false"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>28B1FE0C-1E42-D378-5292-999BEF38302B</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

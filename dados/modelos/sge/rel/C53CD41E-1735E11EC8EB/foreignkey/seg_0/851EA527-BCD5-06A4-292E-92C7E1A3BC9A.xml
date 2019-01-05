@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="851EA527-BCD5-06A4-292E-92C7E1A3BC9A" containerWithKeyObject="04501CE8-21BF-B54D-C423-FDBB622F9B81" localFKIndex="44683CB2-013A-9B12-E02B-A9316FC9C1EB" name="COMPRECOITEM_COMPRECO_FK">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:07 UTC</createdTime>
+<generatorID>E4A4D099-F4B0-5263-71F0-E69B74A6375C</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>BDC4A38B-5D29-7B74-2DB1-D8DC73A88558</importedID>
+<referredTableLongName>COMPRECO</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>B39E4C11-189E-D35A-3578-00D88246B979</referredTableID>
+<keyObject>F1206D67-3DA0-D8F2-9BA5-2269D7DF85BE</keyObject>
+<referredKeyID>F1206D67-3DA0-D8F2-9BA5-2269D7DF85BE</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>CD_PRECO</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

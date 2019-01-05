@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="56A04E0F-8EB5-5F6B-3EFC-4C89D1C03AC3" containerWithKeyObject="7E3000A8-1904-A946-3AD7-CFBEB79EEE29" localFKIndex="572EAA11-2D0F-9708-326B-EDAB717D1285" name="SEGUSUARIOPESSOA_ITTPESSOA_FK">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:07 UTC</createdTime>
+<generatorID>B83DD36C-9602-3871-74A5-CEDA9CEB0884</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>97D045F4-E8E2-1511-F140-D0FA39F9527D</importedID>
+<referredTableLongName>ITTPESSOA</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>7BE8F20F-22EA-2346-E0C0-2D4ED18CDCD2</referredTableID>
+<keyObject>8F743995-2B33-8978-CE2F-EA26643F7A7E</keyObject>
+<referredKeyID>8F743995-2B33-8978-CE2F-EA26643F7A7E</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>CD_PESSOA</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="45D3D541-3B07-A80E-67F8-85EB50C4B16B" containerWithKeyObject="C1CF599D-3DC6-B2D6-8C69-13E4F48B5957" localFKIndex="A5E44282-55EE-EB73-56EB-323D9826EDB9" name="MATESTOQUE_MATLOCAL_FK">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:07 UTC</createdTime>
+<generatorID>1FCC8D59-218C-BA47-5697-47984369986F</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>29E6B6C2-B00B-6AF7-3F71-317DE3A6BDF0</importedID>
+<referredTableLongName>MATLOCAL</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>356B9CA6-8601-0FEC-F3FF-379A70F55F9C</referredTableID>
+<keyObject>A7AFB6BB-AF0C-3BDE-704A-E9E025F2788F</keyObject>
+<referredKeyID>A7AFB6BB-AF0C-3BDE-704A-E9E025F2788F</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>CD_LOCAL</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

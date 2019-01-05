@@ -1,0 +1,89 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="F22B6D65-65D9-75DA-18BA-A8565DF1DBD5" name="COMPEDIDO">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>D3501BB1-032D-C5EE-9E95-9B9692CE4E17</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>42D79BE7-DEEE-75E7-3468-550B577351A3</importedID>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="CD_PEDIDO" id="B31BBA22-37D8-3F18-81D8-5A6C2A1AC2EE">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>64D054FF-5D8C-2DDE-7FB1-A62925DABD3B</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>D6502089-198F-4522-4C42-EBE56AB7DC7B</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DS_PEDIDO" id="3E63A69A-53EA-79DC-9F48-1F01FA84C8A2">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>DEEF4967-2B9F-A665-3FAA-87A4332E2BBB</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>627871EA-B856-0787-AE3B-5026CC3ABFBD</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>AF10CE9F-0037-5D6A-372C-F124DC29550E</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_CADASTRO" id="D5284E00-BD69-7567-AEBA-84F0FBBFDC53">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>B304C76D-6581-0703-673F-E5FDE1208CFB</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>D7BBFB57-3F77-A67C-70D1-A237F15B7198</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_ALTERACAO" id="EB486C74-04AB-5DA6-72A9-C5851A9BD7F3">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>D2950D96-AB80-91FE-AC79-25E7347E9717</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>790A71D5-7E8B-8453-515A-0A5EE10D5B3D</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_EXCLUSAO" id="A705610F-B6FF-8A6F-EE65-B78D4E82ECE7">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>331982CB-6DD2-1B61-7551-474E80951C31</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>3D76DE07-7BBA-7202-5924-28CD50D2337F</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="35185FD4-9128-9F64-97E1-D2A808590107" name="COMPEDIDO_PK">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>8002DA52-6939-891B-72D5-A61CEAF323EB</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>A2BBEFBF-F308-7379-4D98-F55BCF44D1A6</importedID>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="B31BBA22-37D8-3F18-81D8-5A6C2A1AC2EE"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

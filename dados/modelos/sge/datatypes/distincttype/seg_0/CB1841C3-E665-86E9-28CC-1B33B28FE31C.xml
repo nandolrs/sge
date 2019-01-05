@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<DistinctType class="oracle.dbtools.crest.model.design.datatypes.DistinctType" name="CF_CNPJ" directorySegmentName="seg_0" id="CB1841C3-E665-86E9-28CC-1B33B28FE31C">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:04 UTC</createdTime>
+<generatorID>87954038-5851-EB42-0407-2A93F9A35D5F</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>87954038-5851-EB42-0407-2A93F9A35D5F</importedID>
+<predefined>false</predefined>
+<logicalDataType>LOGDT017</logicalDataType>
+<precision>0</precision>
+<scale>0</scale>
+<size>14</size>
+</DistinctType>

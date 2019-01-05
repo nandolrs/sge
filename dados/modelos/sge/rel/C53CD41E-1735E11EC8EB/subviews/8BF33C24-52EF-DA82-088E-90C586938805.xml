@@ -1,0 +1,47 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Diagram class="oracle.dbtools.crest.swingui.relational.DPVRelationalSubView" name="From_LM_COM" id="8BF33C24-52EF-DA82-088E-90C586938805">
+<createdBy>nando</createdBy>
+<modifiedBy>nando</modifiedBy>
+<createdTime>2018-02-26 12:58:07 UTC</createdTime>
+<autoRoute>false</autoRoute>
+<boxInbox>true</boxInbox>
+<showLegend>false</showLegend>
+<showLabels>false</showLabels>
+<showRelAttributes>false</showRelAttributes>
+<gridEnabled>false</gridEnabled>
+<showGrid>false</showGrid>
+<diagramColor>-1</diagramColor>
+<display>false</display>
+<generatorId>9CD45FB9-0C98-8AAB-31EE-5EE915D6B6FD</generatorId>
+<importedid>9CD45FB9-0C98-8AAB-31EE-5EE915D6B6FD</importedid>
+<notation>1</notation>
+<objectViews>
+<OView class="oracle.dbtools.crest.swingui.relational.TVTable" oid="04501CE8-21BF-B54D-C423-FDBB622F9B81" otype="Table" vid="1FB311F2-7211-2F4E-7703-B92421293523">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="630" y="32" width="170" height="110"/>
+</OView>
+<OView class="oracle.dbtools.crest.swingui.relational.TVTable" oid="2364D164-AF5C-2F1E-C9B1-C1C69ED24F0C" otype="Table" vid="F6C85F32-5202-2129-45AC-AC2AFF28E0AB">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="49" y="32" width="170" height="110"/>
+</OView>
+<OView class="oracle.dbtools.crest.swingui.relational.TVTable" oid="9BA56662-5E60-3843-D615-462EAB37D520" otype="Table" vid="31482BB7-89C0-7B29-0712-B7CF27163741">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="243" y="33" width="170" height="110"/>
+</OView>
+<OView class="oracle.dbtools.crest.swingui.relational.TVTable" oid="B39E4C11-189E-D35A-3578-00D88246B979" otype="Table" vid="C47CEFC8-0A3C-101B-C442-F996525C1A64">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="434" y="33" width="170" height="110"/>
+</OView>
+</objectViews>
+<connectors>
+<Connector class="oracle.dbtools.crest.swingui.relational.TVFKRelation" oid="851EA527-BCD5-06A4-292E-92C7E1A3BC9A" otype="FKIndexAssociation" vid_source="C47CEFC8-0A3C-101B-C442-F996525C1A64" vid_target="1FB311F2-7211-2F4E-7703-B92421293523">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<backgroundColor>-16777216</backgroundColor>
+<lineWidth>1</lineWidth>
+<points>
+<point x="519" y="143"/>
+<point x="135" y="390"/>
+</points>
+</Connector>
+</connectors>
+</Diagram>

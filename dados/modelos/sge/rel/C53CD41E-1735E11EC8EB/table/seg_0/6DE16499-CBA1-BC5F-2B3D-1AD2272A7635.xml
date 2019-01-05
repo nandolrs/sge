@@ -1,0 +1,141 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="6DE16499-CBA1-BC5F-2B3D-1AD2272A7635" name="MATEMBALAGEM">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>9179206D-5DE6-6EB8-FFB0-98B4BF4BB039</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>E91A5A48-ED1A-1E47-3AE4-445ECD6D4F27</importedID>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="CD_EMBALAGEM" id="7E8CB5CD-5993-7576-74E6-CE85709D81B2">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>FAA941F5-CAD1-201A-F75C-D47A61D7BC28</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>6D40096F-91E6-FA0D-A361-F19E7A403B6F</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DS_EMBALAGEM" id="CF37D237-010A-E2A6-71F4-629E8629F016">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>3C6C5971-E9A4-3615-BC30-0C379AC266A7</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>5C5066C7-32FD-E2A5-6800-BD8525ECB54D</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>AF10CE9F-0037-5D6A-372C-F124DC29550E</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_CADASTRO" id="A6247155-DC14-D21A-6697-F4E15F397333">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>F3785216-3ED1-9432-9256-F1DA8825E157</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>28977B96-B95C-C176-D173-0DE77CBD803D</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_ALTERACAO" id="475D9572-C570-781E-F4EC-850112D6EDEF">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>BE9F0B52-F35C-6F9E-581D-BD95814600C0</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>EFBA05FB-5428-29B3-555C-8F72D5F09146</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_EXCLUSAO" id="C1F7FEDC-E7B5-2F4E-68CF-414DA555FB55">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>574A962C-F8B3-8FC6-AC2D-C8EB185079CB</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>D6125BFF-752B-DF5B-B95F-1CA2051710D2</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NR_PESO" id="C04A4C1F-8EA1-19A5-FF51-206E201D247E">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>0DEA0211-08C7-EF7D-5670-E219110F9598</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>259F1B7A-0F23-F717-8221-BA7A02AFD25D</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>8FC726B4-914F-7E29-1BA3-EA83A6185AB9</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NR_CAPACIDADE" id="D2D7AC3F-DECB-ACDE-4641-52F4A67D3921">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>427AF745-9C0A-247D-FD34-66E637AA0CB1</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>999C7DC8-ADFE-9B9C-33BE-4B644927C03D</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>8FC726B4-914F-7E29-1BA3-EA83A6185AB9</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="CD_UNIDADE_MEDIDA" id="63524B78-4CA8-D5AF-9884-A6AF7E08096B">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>B649CD51-1ECB-98E4-ACD5-B94758975BAD</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>613FDAA3-E32E-95FC-B4AC-5473A02E614C</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="D7D36B79-ACB3-467A-C035-B493BE2151A0" referredColumn="296A88D1-1113-C8BA-7E6F-D6FBFA8B789A"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="33F8F979-7270-7C7A-D69D-7F3046A9A13B" name="MATEMBALAGEM_PK">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>EC780E44-5948-9428-234F-B0FA9C97C3E8</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>94822931-1684-AA62-D22B-665E9219F5F3</importedID>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="7E8CB5CD-5993-7576-74E6-CE85709D81B2"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="93A75A6C-EF94-7125-41A1-6E6ABA16BC51" name="EMBALAGEM_UNIDADEMEDIDA_FK">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:07 UTC</createdTime>
+<generatorID>451348AF-EDA3-55FB-95F8-EFB068E8441A</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="63524B78-4CA8-D5AF-9884-A6AF7E08096B"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

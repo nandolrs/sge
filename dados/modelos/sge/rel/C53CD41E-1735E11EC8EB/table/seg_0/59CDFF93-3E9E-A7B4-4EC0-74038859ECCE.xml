@@ -1,0 +1,101 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="59CDFF93-3E9E-A7B4-4EC0-74038859ECCE" name="MATUNIDADEMEDIDA">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>3BA67FAE-9D12-3C75-2DDD-4DB299BBBA9B</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>56CFE5CF-6C03-392A-B1D1-5F14BC464A7B</importedID>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="CD_UNIDADE_MEDIDA" id="296A88D1-1113-C8BA-7E6F-D6FBFA8B789A">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>3EDA5BDC-4832-D87F-42E9-3CEF3D0B5F8E</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>AEC1E6B4-1EF4-2007-FB60-E9AF0A85B366</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DS_UNIDADE_MEDIDA" id="686139AA-5EF7-5729-8DD1-4732AF745B50">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>C6F158C8-63BA-79EB-1DDA-5C873CFC1B1C</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>0D021D6E-9CA7-193A-EFC1-1C54B0F24418</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>AF10CE9F-0037-5D6A-372C-F124DC29550E</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_CADASTRO" id="015C721E-12AB-87E5-67C5-9ED00EFD4EDB">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>C55282E9-29D8-4357-32B1-9B3A53150A05</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>EE1BE4EA-CAFF-2F70-BAAD-4EBDAF201625</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_EXCLUSAO" id="0AAABA30-C24B-12AE-BC83-0CBF8E22A203">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>9DB5F655-B37A-EAF1-25CE-F7882743D695</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>E7F92E57-C81B-12FC-446D-75A1BF8D4C9C</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_ALTERACAO" id="0D22ABAB-FB50-0912-9F42-696978155DF0">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>5A7BB7AC-5438-4C9C-3EC0-7D55874C93AA</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>3FC3FC79-2CEE-17D5-950A-7527F46510C6</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DS_SIGLA" id="FE9EEF55-DCDC-4F1C-E6ED-A9C655DADE8F">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>0EE62226-DB20-793F-9FEE-2531436469A8</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>DB67CB1E-5D16-4284-52A3-7D2CF3C0845A</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>AF10CE9F-0037-5D6A-372C-F124DC29550E</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="7FA29369-E222-DD8C-61E8-75AAF6E945EF" name="MATUNIDADEMEDIDA_PK">
+<createdBy>nando</createdBy>
+<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<generatorID>4958DE57-8B29-6A4F-5A9D-EBAF1C469871</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<importedID>19DC120C-035F-91F4-65FF-D82E33A7AA55</importedID>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="296A88D1-1113-C8BA-7E6F-D6FBFA8B789A"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>
