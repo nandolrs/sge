@@ -5,6 +5,7 @@
    <object objectType="sub_view" objectID="8BF33C24-52EF-DA82-088E-90C586938805" name="COM" visible="false"/>
    <object objectType="sub_view" objectID="0B771D63-C720-392D-C9F0-0E59507A6345" name="COM_RELACOES" visible="false"/>
    <object objectType="sub_view" objectID="D3C7172C-E39B-F9F4-FDCC-6FD1CE4BCD4A" name="DOC" visible="true"/>
+   <object objectType="sub_view" objectID="6EA7A28D-DA74-CB30-CCB3-B6D6C6D93CD9" name="DOC1" visible="true"/>
    <object objectType="sub_view" objectID="4BC2CF6F-9E7E-B95D-B760-13B19776823F" name="GEO" visible="false"/>
    <object objectType="sub_view" objectID="85AAA439-2F71-51F2-19DA-3384E77557FD" name="GERAL" visible="false"/>
    <object objectType="sub_view" objectID="757C98A3-B69D-1FB8-4B24-FC0F0C9D0292" name="IIT" visible="false"/>
