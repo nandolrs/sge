@@ -33,6 +33,17 @@
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
+<Column name="DS_FANTASIA" directorySegmentName="seg_0" id="35C51BD5-FB83-409C-035C-B5927FCE6F7E">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-17 02:09:21 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>AF10CE9F-0037-5D6A-372C-F124DC29550E</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
 <Column name="DT_CADASTRO" id="1E4D51E8-4260-C70C-17F5-4218EBCA5A1F">
 <createdBy>nando</createdBy>
 <createdTime>2018-02-26 12:58:06 UTC</createdTime>

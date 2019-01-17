@@ -1,6 +1,6 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <oracle.dbtools.crest.model.design.logical.LogicalDesign>
-   <object objectType="main_view" objectID="0D32B8E2-235A-A6AA-A49F-F97DAD9CAA00" name="Logical" visible="true"/>
+   <object objectType="main_view" objectID="0D32B8E2-235A-A6AA-A49F-F97DAD9CAA00" name="Logical" visible="false"/>
    <object objectType="sub_view" objectID="5C614B52-6634-AFC8-96E6-C2B49DE86908" name="CLB" visible="false"/>
    <object objectType="sub_view" objectID="10100610-7189-C00B-7C69-DF7E97F256B2" name="COM" visible="false"/>
    <object objectType="sub_view" objectID="C512DFDA-A553-A84E-EA1E-651F12B69890" name="COM_RELACOES" visible="false"/>
