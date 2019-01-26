@@ -1,0 +1,84 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxySqlServerv2k5 class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.TableProxySqlServerv2k5" name="ORCSEGMENTO" directorySegmentName="seg_0" id="3A5B900C-B0BA-68AE-2332-997075E4479D">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<database>DB_NULLELEMENT</database>
+<columnProxies>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DT_ALTERACAO" id="3CC25F28-4B99-CFA7-92B6-7CBA8578BD42">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DT_EXCLUSAO" id="5FDD70FD-1942-5AFA-8ED5-86AC5BA6D74E">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="CLBORGANIZACAO_CD_ORGANIZACAO" id="81375714-8C04-0635-D964-F2A64176706D">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="ORCSEGMENTOPAI_CD_SEGMENTOPAI" id="92A0AB3F-3A5E-0A79-8B20-E97D7AC51631">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="VL_PLANEJADO" id="93B6E18A-1F48-2DA9-A400-56DCC1DB21A3">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DT_CADASTRO" id="AA56357A-C8B3-8270-1DD4-70E00CA59F1A">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="VL_SALDO" id="AD43EE29-0C1A-1A0A-54D3-4B8B2C20B35D">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="VL_COMPRAS" id="C5916DC4-B340-5B8C-4A76-F010C27A1CA3">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="CD_SEGMENTO" id="E28F8199-4C78-780B-CBBF-194B6ED64F76">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DS_SEGMENTO" id="EC1CC3A5-25CF-9C66-49B5-9AA982B56281">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="VL_ATRIBUIDO" id="FE5D35C8-8766-C3BD-65BB-60FD6092DFB1">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<foreignKeys>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.FKProxySqlServerv2k5" name="ORCSEGMENTO_CLBORGANIZACAO_FK" id="8F835552-2E23-9EA8-E489-E98C24E9967B">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ForeignKey>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.FKProxySqlServerv2k5" name="ORCSEGMENTO_ORCSEGMENTOPAI_FK" id="C202F13E-0DC0-AB6F-7EE2-29CA47A440BC">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ForeignKey>
+</foreignKeys>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.PKProxySqlServerv2k5" name="ORCSEGMENTO_PK" id="2FFEF37E-08BB-102C-75C9-1A276C101881">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<clustered>true</clustered>
+</PrimaryKey>
+</primaryKeys>
+</TableProxySqlServerv2k5>

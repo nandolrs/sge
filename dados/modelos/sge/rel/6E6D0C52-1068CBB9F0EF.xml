@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<relationalModel class="oracle.dbtools.crest.model.design.relational.RelationalDesign" name="Relational_1" id="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" mainViewID="66D7EE91-2B2E-741F-D7AE-04102B6AD904">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:15 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+<selectedRDBMSSite>980FCE9E-D688-BDF0-C89A-C9FB2DCAED45</selectedRDBMSSite>
+</relationalModel>

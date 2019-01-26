@@ -1,0 +1,59 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxySqlServerv2k5 class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.TableProxySqlServerv2k5" name="SEGUSUARIO" directorySegmentName="seg_0" id="F40EA0E3-1BE2-59BF-3A7C-0D74E203E5F6">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<database>DB_NULLELEMENT</database>
+<columnProxies>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DS_EMAIL" id="00B46609-AB6A-4AEC-55D7-14E5F983071D">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DT_ALTERACAO" id="034F54AA-8571-254C-8958-C2058F23CA44">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DT_CADASTRO" id="0FD505AA-ED39-2A95-E591-8133869692B1">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="CD_USUARIO" id="4F8D3140-1BD6-11C0-7C4B-ADCFC5DE55C0">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DT_CONFIRMACAO_EMAIL" id="5189A58A-F7A6-A1E1-9C9C-9F2E4DB8D8E4">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DS_NOME_USUARIO" id="B520449E-71D2-CE45-3586-0015AE926866">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DT_EXCLUSAO" id="C87FFEB1-9143-6760-51DE-3FAC7320532D">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.PKProxySqlServerv2k5" name="SEGUSUARIO_PK" id="CB4C6392-3A90-DDC4-BDD9-F6F5F678A16B">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<clustered>true</clustered>
+</PrimaryKey>
+</primaryKeys>
+<uniqueKeys>
+<UniqueKey class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.UniqueProxySqlServerv2k5" name="SEGUSUARIO_DS_EMAIL_UN" id="0289E69A-22E6-9994-EC11-78F3D0A7BAD3">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</UniqueKey>
+</uniqueKeys>
+</TableProxySqlServerv2k5>

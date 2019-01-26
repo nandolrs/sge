@@ -1,0 +1,42 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxySqlServerv2k5 class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.TableProxySqlServerv2k5" name="SEGOBJETO" directorySegmentName="seg_0" id="28AEEF88-2F89-9F35-90DA-B45943CBF0A1">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<database>DB_NULLELEMENT</database>
+<columnProxies>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DT_CADASTRO" id="394C395C-18AF-779A-359A-8FC257CDB894">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DS_OBJETO" id="87B9F99D-454B-20F6-B01C-38CE4C52187C">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DT_EXCLUSAO" id="AF644198-68D8-0600-35D0-2D95FD9498C3">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="CD_OBJETO" id="D644C454-7FBD-6403-5349-E05877D0E485">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DT_ALTERACAO" id="FBC9E9B4-1E2A-EC84-C994-3419C346B03C">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.PKProxySqlServerv2k5" name="SEGOBJETO_PK" id="7C72BB01-E55D-2799-5B2F-1691C9396228">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<clustered>true</clustered>
+</PrimaryKey>
+</primaryKeys>
+</TableProxySqlServerv2k5>

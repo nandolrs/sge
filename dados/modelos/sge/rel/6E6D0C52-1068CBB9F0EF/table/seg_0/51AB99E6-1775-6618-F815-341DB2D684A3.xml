@@ -1,0 +1,82 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="51AB99E6-1775-6618-F815-341DB2D684A3" name="MATCLASSE">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:47 UTC</createdTime>
+<generatorID>B9AD9A49-2AF3-2A16-7E0B-086AB9F0B6C9</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="CD_CLASSE" id="737F7259-FDFE-69AF-9323-8D719423CED2">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:47 UTC</createdTime>
+<generatorID>5F4E4671-4FFA-3F4B-26B4-4B8F37AEC175</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DS_CLASSE" id="FEE2FC3F-F68E-0870-55F5-A07BDB1CA3CB">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:47 UTC</createdTime>
+<generatorID>052DEEDC-A3D3-7BE9-A27C-98A22EC10AD4</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>AF10CE9F-0037-5D6A-372C-F124DC29550E</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_CADASTRO" id="58CF1B69-2F9B-7A40-3B24-93014D1B645B">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:47 UTC</createdTime>
+<generatorID>AF3D005A-4A4B-C24C-63B3-2F34487447DC</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_EXCLUSAO" id="6A836BDA-5122-CB90-ECE7-CABFA5B0E0F3">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:47 UTC</createdTime>
+<generatorID>197FE533-5331-0040-140F-57EDB31AFBDF</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_ALTERACAO" id="EEC92699-8843-EA42-AFBD-6CA3961DE0D3">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:47 UTC</createdTime>
+<generatorID>B3254283-F15E-86BE-C31D-8C7BDC8ADE98</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="C76B8343-6AD7-ED24-413F-C3DE6EC991C3" name="MATCLASSE_PK">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:47 UTC</createdTime>
+<generatorID>0AF1AA2D-E886-67CB-193E-79B9E5FF6CCC</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="737F7259-FDFE-69AF-9323-8D719423CED2"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

@@ -6,8 +6,8 @@
 <ownerDesignName>sge</ownerDesignName>
 <importedID>87954038-5851-EB42-0407-2A93F9A35D5F</importedID>
 <predefined>false</predefined>
-<logicalDataType>LOGDT017</logicalDataType>
+<logicalDataType>LOGDT024</logicalDataType>
 <precision>0</precision>
 <scale>0</scale>
-<size>14</size>
+<size>12</size>
 </DistinctType>

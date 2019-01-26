@@ -1,0 +1,82 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="67C5B746-E282-C717-DB4B-BC1ECED5C451" name="COMPEDIDO">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:47 UTC</createdTime>
+<generatorID>D3501BB1-032D-C5EE-9E95-9B9692CE4E17</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="CD_PEDIDO" id="481822BC-29DB-FD42-45F4-9C01BF4B709E">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:47 UTC</createdTime>
+<generatorID>64D054FF-5D8C-2DDE-7FB1-A62925DABD3B</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DS_PEDIDO" id="10B4B550-F632-5700-2839-7B9FDC9C5B64">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:47 UTC</createdTime>
+<generatorID>DEEF4967-2B9F-A665-3FAA-87A4332E2BBB</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>AF10CE9F-0037-5D6A-372C-F124DC29550E</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_CADASTRO" id="C34DA40B-C158-5E3D-99DD-108F1ACF7940">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:47 UTC</createdTime>
+<generatorID>B304C76D-6581-0703-673F-E5FDE1208CFB</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_ALTERACAO" id="07215680-F8A4-B0DF-4F24-76554B647C29">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:47 UTC</createdTime>
+<generatorID>D2950D96-AB80-91FE-AC79-25E7347E9717</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_EXCLUSAO" id="FB9ABEFF-7319-E104-239B-452AC5C00CB3">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:47 UTC</createdTime>
+<generatorID>331982CB-6DD2-1B61-7551-474E80951C31</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="99B9EC87-58E6-20EF-16E3-CF1B5E57937D" name="COMPEDIDO_PK">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:47 UTC</createdTime>
+<generatorID>8002DA52-6939-891B-72D5-A61CEAF323EB</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="481822BC-29DB-FD42-45F4-9C01BF4B709E"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

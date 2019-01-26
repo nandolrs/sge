@@ -1,6 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<DistinctTypeProxySqlServerv2k5 class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.DistinctTypeProxySqlServerv2k5" name="CF_LITERAL_60" directorySegmentName="seg_0" id="AF10CE9F-0037-5D6A-372C-F124DC29550E">
-<createdBy>nando</createdBy>
-<createdTime>2019-01-02 23:38:19 UTC</createdTime>
-<ownerDesignName>sge</ownerDesignName>
-</DistinctTypeProxySqlServerv2k5>

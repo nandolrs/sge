@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="F7743ED0-86D1-5A85-3342-54CC41227BE8" containerWithKeyObject="798CE977-EF12-A057-49F7-3EC313055363" localFKIndex="911E82C4-43F4-5039-7FAC-F469761A5642" name="ORCORCAMENTOMESANO_ORCORCAMENTO_FK">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<generatorID>1759D922-E53E-16C1-7509-EF1220A1ECDE</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<referredTableLongName>ORCORCAMENTO</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>E2D8E56B-A6CD-F4A1-C8A9-3D098C5FD7FF</referredTableID>
+<keyObject>618F2C86-68EC-1875-C083-296F556872B8</keyObject>
+<referredKeyID>618F2C86-68EC-1875-C083-296F556872B8</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>CD_ORCAMENTO</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

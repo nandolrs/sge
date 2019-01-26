@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="12BD6A72-923A-873D-6A45-36F50748C600" containerWithKeyObject="89405AAC-9B9D-0EDF-53F0-20980EA04CFC" localFKIndex="B4BBBA08-69F3-861A-1F8F-0E5B48DD2535" name="GEOUF_GEOPAIS_FK">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<generatorID>EB6079D6-BFA7-0BE8-D482-B8B4DE5F2A66</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<referredTableLongName>GEOPAIS</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>0BA5044E-82F1-8550-C90D-EC33A28BF38C</referredTableID>
+<keyObject>4E2F22A1-4695-25B8-3595-AB02C42DA0CA</keyObject>
+<referredKeyID>4E2F22A1-4695-25B8-3595-AB02C42DA0CA</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>CD_PAIS</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

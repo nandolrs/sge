@@ -110,7 +110,9 @@
 <item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
 </engineerTo>
 <useDomainConstraints>false</useDomainConstraints>
-<use>1</use>
+<use>2</use>
+<distinctType>B6BD1674-2F31-440B-5BA5-2FFAF2D38E24</distinctType>
+<logicalDatatype>LOGDT029</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 <propertyMap>
 <property name="engineerTo" value=""/>

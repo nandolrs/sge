@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="98802100-3BB3-1484-0FA1-192BA4B73307" containerWithKeyObject="3B9A5FCB-BF74-108A-7D35-F040C971C975" localFKIndex="6EF9FE84-211B-2E58-BD78-6971D50DBFAA" name="SEGPERMISSAO_SEGPERFIL_FK">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<generatorID>5E36807D-E746-2FDF-A93E-3C141BB5F54C</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<referredTableLongName>SEGPERFIL</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>05EA0C17-03A4-BFB3-F184-6EAEE8DBCD59</referredTableID>
+<keyObject>0A2A1AD3-8F46-C3AE-5254-E08199D282B8</keyObject>
+<referredKeyID>0A2A1AD3-8F46-C3AE-5254-E08199D282B8</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>CD_PERFIL</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

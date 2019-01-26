@@ -1,0 +1,179 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="3A5B900C-B0BA-68AE-2332-997075E4479D" name="ORCSEGMENTO">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<generatorID>CCE92AFF-1676-1301-92FE-F6C8ACD44085</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="CD_SEGMENTO" id="E28F8199-4C78-780B-CBBF-194B6ED64F76">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<generatorID>2D16C537-E985-5148-4BE7-F736725CE3E5</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DS_SEGMENTO" id="EC1CC3A5-25CF-9C66-49B5-9AA982B56281">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<generatorID>F864C7EC-B05C-DB79-56EE-51BF15449691</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>AF10CE9F-0037-5D6A-372C-F124DC29550E</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_CADASTRO" id="AA56357A-C8B3-8270-1DD4-70E00CA59F1A">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<generatorID>C0683D48-2FF7-4460-15ED-F129DF2C974D</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_ALTERACAO" id="3CC25F28-4B99-CFA7-92B6-7CBA8578BD42">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<generatorID>33A8C5C8-7B8D-57DC-D414-B117280388DC</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_EXCLUSAO" id="5FDD70FD-1942-5AFA-8ED5-86AC5BA6D74E">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<generatorID>4772EE1A-2A91-943A-EF0F-2D678A37508C</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="CLBORGANIZACAO_CD_ORGANIZACAO" id="81375714-8C04-0635-D964-F2A64176706D">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<generatorID>4C9E9212-5092-DC22-E1E1-E1A858F3B341</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="2883268A-EE9B-E850-2079-67B428921A7F" referredColumn="9BF0856B-CB64-2215-7C8A-D7AD6F790D0B"/>
+</associations>
+</Column>
+<Column name="VL_PLANEJADO" id="93B6E18A-1F48-2DA9-A400-56DCC1DB21A3">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<generatorID>C56A1802-6592-FBC8-9F5C-B32800EFF29A</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>8FC726B4-914F-7E29-1BA3-EA83A6185AB9</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="VL_COMPRAS" id="C5916DC4-B340-5B8C-4A76-F010C27A1CA3">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<generatorID>BECAA82F-D726-E2E3-B1F7-FA6BFF891DB4</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>8FC726B4-914F-7E29-1BA3-EA83A6185AB9</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="VL_SALDO" id="AD43EE29-0C1A-1A0A-54D3-4B8B2C20B35D">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<generatorID>F1F7104E-EC4D-9F2A-BE29-FB763A7C0C7F</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>8FC726B4-914F-7E29-1BA3-EA83A6185AB9</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="VL_ATRIBUIDO" id="FE5D35C8-8766-C3BD-65BB-60FD6092DFB1">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<generatorID>A97A7454-2CEB-1E1E-6000-4F4022720374</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>8FC726B4-914F-7E29-1BA3-EA83A6185AB9</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ORCSEGMENTOPAI_CD_SEGMENTOPAI" id="92A0AB3F-3A5E-0A79-8B20-E97D7AC51631">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<generatorID>3904FC55-2755-718A-07BE-DA586B00831E</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="158C7F98-B4AE-32BB-EB10-C29A8CC011A3" referredColumn="E7E5FFA7-BC81-BCFB-4D73-2871906BB072"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="2FFEF37E-08BB-102C-75C9-1A276C101881" name="ORCSEGMENTO_PK">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<generatorID>08971C43-B2BF-98E2-7188-5A8B4D680F15</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="E28F8199-4C78-780B-CBBF-194B6ED64F76"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="8F835552-2E23-9EA8-E489-E98C24E9967B" name="ORCSEGMENTO_CLBORGANIZACAO_FK">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<generatorID>2E82D788-5819-E861-C634-077350C0E587</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="81375714-8C04-0635-D964-F2A64176706D"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="C202F13E-0DC0-AB6F-7EE2-29CA47A440BC" name="ORCSEGMENTO_ORCSEGMENTOPAI_FK">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<generatorID>EDE34A0F-65AC-6642-8304-77ACE0248571</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="92A0AB3F-3A5E-0A79-8B20-E97D7AC51631"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

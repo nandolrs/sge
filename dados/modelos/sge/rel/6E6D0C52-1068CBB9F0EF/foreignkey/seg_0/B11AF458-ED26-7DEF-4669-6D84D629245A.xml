@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="B11AF458-ED26-7DEF-4669-6D84D629245A" containerWithKeyObject="300E2DCD-18BA-77F6-6A0B-6A4D5B6B0DE1" localFKIndex="722F1812-BE5F-72DF-64F1-F2F3ED414362" name="COMPEDIDOITEM_MATEMBALADO_FK">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<generatorID>76E683A5-8BF3-FEA0-D8A4-D232A218CAC4</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<referredTableLongName>MATEMBALADO</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>92EF230F-806C-8BDD-FA2C-6A6E788E13E4</referredTableID>
+<keyObject>7619E17A-EB5B-33CD-64D4-A9661FA1CD59</keyObject>
+<referredKeyID>7619E17A-EB5B-33CD-64D4-A9661FA1CD59</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>CD_EMBALADO</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

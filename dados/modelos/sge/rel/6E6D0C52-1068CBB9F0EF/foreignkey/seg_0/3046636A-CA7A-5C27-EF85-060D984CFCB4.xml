@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="3046636A-CA7A-5C27-EF85-060D984CFCB4" containerWithKeyObject="B7EDF21B-FD5F-DE80-FF99-34B9B2D099B5" localFKIndex="86F476C2-3633-855A-E437-95E471A6E6B7" name="MATEMBALAGEM_MATUNIDADEMEDIDA_FK">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<generatorID>451348AF-EDA3-55FB-95F8-EFB068E8441A</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<referredTableLongName>MATUNIDADEMEDIDA</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>4BA8BB3A-0C1E-4425-3E01-3ACDC084EA6A</referredTableID>
+<keyObject>2ABDA301-5E15-48CC-52B7-22DD98EAF538</keyObject>
+<referredKeyID>2ABDA301-5E15-48CC-52B7-22DD98EAF538</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>CD_UNIDADE_MEDIDA</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

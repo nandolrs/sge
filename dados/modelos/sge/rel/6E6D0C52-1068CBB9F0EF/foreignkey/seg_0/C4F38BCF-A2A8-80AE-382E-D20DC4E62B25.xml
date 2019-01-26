@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="C4F38BCF-A2A8-80AE-382E-D20DC4E62B25" containerWithKeyObject="777436AD-1C01-ED8A-2FDC-92DC63214A99" localFKIndex="BFE8B763-5B28-B91E-9F44-5AFCC20CAD83" name="GEOENDERECO_ITTPESSOA_FK">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<generatorID>5FB4B614-5FD5-AC6B-B664-5C764E5D1A67</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<referredTableLongName>ITTPESSOA</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>664F4F89-5565-833E-9C24-774731515D19</referredTableID>
+<keyObject>A1501EE8-6187-317B-6E7E-51F7E9FF1B93</keyObject>
+<referredKeyID>A1501EE8-6187-317B-6E7E-51F7E9FF1B93</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>CD_PESSOA</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

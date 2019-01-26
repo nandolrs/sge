@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="FF58A056-070D-F321-ECB1-416E67EC3283" containerWithKeyObject="300E2DCD-18BA-77F6-6A0B-6A4D5B6B0DE1" localFKIndex="20FD11E3-6D1E-EF0A-872A-5FC74A4F688F" name="COMPEDIDOITEM_COMPEDIDO_FK">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-19 13:29:48 UTC</createdTime>
+<generatorID>FC231515-3217-2F79-62CA-8544F98AD916</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<referredTableLongName>COMPEDIDO</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>67C5B746-E282-C717-DB4B-BC1ECED5C451</referredTableID>
+<keyObject>99B9EC87-58E6-20EF-16E3-CF1B5E57937D</keyObject>
+<referredKeyID>99B9EC87-58E6-20EF-16E3-CF1B5E57937D</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>CD_PEDIDO</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>
