@@ -1,15 +1,16 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <oracle.dbtools.crest.model.design.relational.RelationalDesign>
-   <object objectType="sub_view" objectID="03524E24-9189-2668-5588-9AA3E293D3C2" name="From_LM_ORC" visible="false"/>
-   <object objectType="sub_view" objectID="194295B8-7FDB-9980-BB84-44FC76FBE035" name="From_LM_COM_RELACOES" visible="false"/>
-   <object objectType="sub_view" objectID="1DFB5271-926C-DEF8-B347-91F375AF21B2" name="From_LM_IIT" visible="false"/>
-   <object objectType="sub_view" objectID="39EC6806-57DD-134D-3290-2FA677F073FA" name="From_LM_MAT_RELACOES" visible="false"/>
-   <object objectType="sub_view" objectID="6446425E-9407-35FE-5D89-10E5D4027FF7" name="From_LM_IIT_RELACOES" visible="false"/>
    <object objectType="main_view" objectID="66D7EE91-2B2E-741F-D7AE-04102B6AD904" name="Relational_1" visible="false"/>
-   <object objectType="sub_view" objectID="86ADF45D-3F15-1E49-B607-233CD3BD248A" name="From_LM_REP" visible="false"/>
-   <object objectType="sub_view" objectID="87DC3C97-FC58-651C-78E2-F14A9F0B2697" name="From_LM_SEG" visible="false"/>
    <object objectType="sub_view" objectID="99574762-3A4E-E09E-7816-CB69997DE356" name="From_LM_CLB" visible="false"/>
    <object objectType="sub_view" objectID="C64EB163-BF8B-1586-2368-CB4985F692A5" name="From_LM_COM" visible="false"/>
+   <object objectType="sub_view" objectID="194295B8-7FDB-9980-BB84-44FC76FBE035" name="From_LM_COM_RELACOES" visible="false"/>
    <object objectType="sub_view" objectID="E69FFD5A-F2CE-11C5-8176-3A73EB713F84" name="From_LM_GEO" visible="false"/>
+   <object objectType="sub_view" objectID="1DFB5271-926C-DEF8-B347-91F375AF21B2" name="From_LM_IIT" visible="false"/>
+   <object objectType="sub_view" objectID="6446425E-9407-35FE-5D89-10E5D4027FF7" name="From_LM_IIT_RELACOES" visible="false"/>
    <object objectType="sub_view" objectID="EAA8DB92-8231-145A-2427-1A20ACFED653" name="From_LM_MAT" visible="false"/>
+   <object objectType="sub_view" objectID="39EC6806-57DD-134D-3290-2FA677F073FA" name="From_LM_MAT_RELACOES" visible="false"/>
+   <object objectType="sub_view" objectID="03524E24-9189-2668-5588-9AA3E293D3C2" name="From_LM_ORC" visible="false"/>
+   <object objectType="sub_view" objectID="86ADF45D-3F15-1E49-B607-233CD3BD248A" name="From_LM_REP" visible="false"/>
+   <object objectType="sub_view" objectID="87DC3C97-FC58-651C-78E2-F14A9F0B2697" name="From_LM_SEG" visible="false"/>
+   <object objectType="sub_view" objectID="3486D620-ECD3-7DB2-4941-C8D910DF49CA" name="PCS_01" visible="true"/>
 </oracle.dbtools.crest.model.design.relational.RelationalDesign>

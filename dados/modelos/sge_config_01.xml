@@ -1,0 +1,178 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<DatamodelerPersistedDDLSelection designName="sge" objectID="04EA2026-77A9-77A6-270D-37B5DE6E8F89">
+   <IncludeComments isSelected="false"/>
+   <applyNameSubstitution isSelected="false"/>
+   <generateDDLInFiles isSelected="false"/>
+   <generateRESTServices isSelected="false"/>
+   <activeScriptSetCBIndex selectedIndex="1"/>
+   <oracle.dbtools.crest.model.design.relational.RelationalDesign objectID="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF">
+      <object objectID="B9D6FE6B-B066-8A7A-9A0B-1F3C8F134733" markedGenerate="false"/>
+      <object objectID="2C631CC9-8D67-216E-CDF1-1AECD0062BF4" markedGenerate="false"/>
+      <object objectID="77CC6A68-C4DD-3AC3-EC7C-4EB5B9A9576C" markedGenerate="false"/>
+      <object objectID="3893C91A-B904-0F44-00A4-4D0B5E0EB3A8" markedGenerate="false"/>
+      <object objectID="67C5B746-E282-C717-DB4B-BC1ECED5C451" markedGenerate="false"/>
+      <object objectID="300E2DCD-18BA-77F6-6A0B-6A4D5B6B0DE1" markedGenerate="false"/>
+      <object objectID="65E679A7-CC7F-BD10-4AC0-F7AA004E8460" markedGenerate="false"/>
+      <object objectID="990A0E40-DF52-28AD-F5B1-DAD555278D46" markedGenerate="false"/>
+      <object objectID="10F82DFA-9ACA-E6C4-3C77-B18C87A1B7AE" markedGenerate="false"/>
+      <object objectID="58E59727-80DE-6868-8C51-6F451DA0CC3D" markedGenerate="true"/>
+      <object objectID="AA825B5D-7D04-790C-B598-F7A504E0462D" markedGenerate="true"/>
+      <object objectID="777436AD-1C01-ED8A-2FDC-92DC63214A99" markedGenerate="true"/>
+      <object objectID="0BA5044E-82F1-8550-C90D-EC33A28BF38C" markedGenerate="true"/>
+      <object objectID="89405AAC-9B9D-0EDF-53F0-20980EA04CFC" markedGenerate="true"/>
+      <object objectID="664F4F89-5565-833E-9C24-774731515D19" markedGenerate="true"/>
+      <object objectID="51AB99E6-1775-6618-F815-341DB2D684A3" markedGenerate="false"/>
+      <object objectID="92EF230F-806C-8BDD-FA2C-6A6E788E13E4" markedGenerate="false"/>
+      <object objectID="B7EDF21B-FD5F-DE80-FF99-34B9B2D099B5" markedGenerate="false"/>
+      <object objectID="C8DA9CB6-3072-759A-E7AA-A64AAE8F9C71" markedGenerate="false"/>
+      <object objectID="F50D1896-9EAD-F6DB-0318-39642D51EFE8" markedGenerate="false"/>
+      <object objectID="7F9150DB-D697-5D3B-A928-7D8E0C787046" markedGenerate="false"/>
+      <object objectID="4BA8BB3A-0C1E-4425-3E01-3ACDC084EA6A" markedGenerate="false"/>
+      <object objectID="E2D8E56B-A6CD-F4A1-C8A9-3D098C5FD7FF" markedGenerate="false"/>
+      <object objectID="798CE977-EF12-A057-49F7-3EC313055363" markedGenerate="false"/>
+      <object objectID="3A5B900C-B0BA-68AE-2332-997075E4479D" markedGenerate="false"/>
+      <object objectID="3F9682D8-721D-CD87-1EAF-CDE841BD0761" markedGenerate="false"/>
+      <object objectID="28AEEF88-2F89-9F35-90DA-B45943CBF0A1" markedGenerate="false"/>
+      <object objectID="64777EBA-0448-6D1F-AB10-3A9E6B9DB535" markedGenerate="false"/>
+      <object objectID="05EA0C17-03A4-BFB3-F184-6EAEE8DBCD59" markedGenerate="false"/>
+      <object objectID="3B9A5FCB-BF74-108A-7D35-F040C971C975" markedGenerate="false"/>
+      <object objectID="FAD662F2-C0EE-9435-F7CD-4CDC71CEF49F" markedGenerate="false"/>
+      <object objectID="F40EA0E3-1BE2-59BF-3A7C-0D74E203E5F6" markedGenerate="true"/>
+      <object objectID="617E4A31-691A-7A02-E2F9-AF210B47EDC5" markedGenerate="false"/>
+      <object objectID="FC942352-A442-543C-75AE-38964496FAEE" markedGenerate="false"/>
+      <object objectID="B7003F6A-67A0-6A87-852F-15F54271E2CB" markedGenerate="false"/>
+      <object objectID="8628BF67-76AA-2D44-1091-8F400E913F51" markedGenerate="false"/>
+      <object objectID="AB3ADC3D-D5E2-D23A-940C-FF9B6831AAF8" markedGenerate="false"/>
+      <object objectID="20FD11E3-6D1E-EF0A-872A-5FC74A4F688F" markedGenerate="false"/>
+      <object objectID="722F1812-BE5F-72DF-64F1-F2F3ED414362" markedGenerate="false"/>
+      <object objectID="59CDC176-60FC-5E53-56C1-D0ACB78FB01A" markedGenerate="false"/>
+      <object objectID="33ED31CB-2783-FC01-7A28-F3C878FB0A3A" markedGenerate="false"/>
+      <object objectID="EB80E3DA-8C22-095E-EABD-AAF97ACD926A" markedGenerate="true"/>
+      <object objectID="BFE8B763-5B28-B91E-9F44-5AFCC20CAD83" markedGenerate="true"/>
+      <object objectID="9968D7B7-5C45-A90C-FAF6-548857BE9940" markedGenerate="true"/>
+      <object objectID="B4BBBA08-69F3-861A-1F8F-0E5B48DD2535" markedGenerate="true"/>
+      <object objectID="23C21D3B-9489-268D-E4EE-9777460241E1" markedGenerate="false"/>
+      <object objectID="35C08256-C748-9EDB-4840-C56B9A56DED0" markedGenerate="false"/>
+      <object objectID="86F476C2-3633-855A-E437-95E471A6E6B7" markedGenerate="false"/>
+      <object objectID="999218F2-EFEB-EED5-9252-FFB44E4455D5" markedGenerate="false"/>
+      <object objectID="15DB0150-DE7E-A7FF-E0F0-4593A7F3EBB0" markedGenerate="false"/>
+      <object objectID="E4F8D6AE-1581-CA7F-0F6F-68AA74FB27B7" markedGenerate="false"/>
+      <object objectID="30D5436C-9310-6FBE-4347-499DB9F2E538" markedGenerate="false"/>
+      <object objectID="911E82C4-43F4-5039-7FAC-F469761A5642" markedGenerate="false"/>
+      <object objectID="8F835552-2E23-9EA8-E489-E98C24E9967B" markedGenerate="false"/>
+      <object objectID="C202F13E-0DC0-AB6F-7EE2-29CA47A440BC" markedGenerate="false"/>
+      <object objectID="8DF321DE-B187-B868-A366-0149E22DB57E" markedGenerate="false"/>
+      <object objectID="73D82528-EB7B-E57A-06A4-911C2D2C732B" markedGenerate="false"/>
+      <object objectID="6EF9FE84-211B-2E58-BD78-6971D50DBFAA" markedGenerate="false"/>
+      <object objectID="5D86AFA4-A51E-3FBD-BB75-A5C40F5AB625" markedGenerate="false"/>
+      <object objectID="12516195-378E-3D2A-7939-35DDD8297A4F" markedGenerate="false"/>
+      <object objectID="FCBEB99E-F7C8-D8E8-99B9-4D241B768A51" markedGenerate="false"/>
+      <object objectID="B6386DA9-292B-897F-8585-0E9206646BE6" markedGenerate="false"/>
+      <object objectID="29C6A3E1-859D-9DF2-615E-EAAA30EF5A1B" markedGenerate="false"/>
+      <object objectID="9C74F0F5-B7E2-68F6-C353-603043662575" markedGenerate="true"/>
+   </oracle.dbtools.crest.model.design.relational.RelationalDesign>
+   <storageDesignObject storageDesignClass="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.StorageDesignSqlServerv2k12" objectID="6452F479-E22E-805D-3B1D-F5FAAC0BB897" storageDesignName="SQL Server 2012">
+      <object objectID="DB_NULLELEMENT" markedGenerate="false"/>
+      <object objectID="DB_NULLELEMENT_dbo" markedGenerate="false"/>
+      <object objectID="GUEST" markedGenerate="false"/>
+      <object objectID="DB_NULLELEMENT_PUBLIC" markedGenerate="false"/>
+      <object objectID="B9D6FE6B-B066-8A7A-9A0B-1F3C8F134733" markedGenerate="false"/>
+      <object objectID="2C631CC9-8D67-216E-CDF1-1AECD0062BF4" markedGenerate="false"/>
+      <object objectID="77CC6A68-C4DD-3AC3-EC7C-4EB5B9A9576C" markedGenerate="false"/>
+      <object objectID="3893C91A-B904-0F44-00A4-4D0B5E0EB3A8" markedGenerate="false"/>
+      <object objectID="67C5B746-E282-C717-DB4B-BC1ECED5C451" markedGenerate="false"/>
+      <object objectID="300E2DCD-18BA-77F6-6A0B-6A4D5B6B0DE1" markedGenerate="false"/>
+      <object objectID="65E679A7-CC7F-BD10-4AC0-F7AA004E8460" markedGenerate="false"/>
+      <object objectID="990A0E40-DF52-28AD-F5B1-DAD555278D46" markedGenerate="false"/>
+      <object objectID="10F82DFA-9ACA-E6C4-3C77-B18C87A1B7AE" markedGenerate="false"/>
+      <object objectID="58E59727-80DE-6868-8C51-6F451DA0CC3D" markedGenerate="true"/>
+      <object objectID="AA825B5D-7D04-790C-B598-F7A504E0462D" markedGenerate="true"/>
+      <object objectID="777436AD-1C01-ED8A-2FDC-92DC63214A99" markedGenerate="true"/>
+      <object objectID="0BA5044E-82F1-8550-C90D-EC33A28BF38C" markedGenerate="true"/>
+      <object objectID="89405AAC-9B9D-0EDF-53F0-20980EA04CFC" markedGenerate="true"/>
+      <object objectID="664F4F89-5565-833E-9C24-774731515D19" markedGenerate="true"/>
+      <object objectID="51AB99E6-1775-6618-F815-341DB2D684A3" markedGenerate="false"/>
+      <object objectID="92EF230F-806C-8BDD-FA2C-6A6E788E13E4" markedGenerate="false"/>
+      <object objectID="B7EDF21B-FD5F-DE80-FF99-34B9B2D099B5" markedGenerate="false"/>
+      <object objectID="C8DA9CB6-3072-759A-E7AA-A64AAE8F9C71" markedGenerate="false"/>
+      <object objectID="F50D1896-9EAD-F6DB-0318-39642D51EFE8" markedGenerate="false"/>
+      <object objectID="7F9150DB-D697-5D3B-A928-7D8E0C787046" markedGenerate="false"/>
+      <object objectID="4BA8BB3A-0C1E-4425-3E01-3ACDC084EA6A" markedGenerate="false"/>
+      <object objectID="E2D8E56B-A6CD-F4A1-C8A9-3D098C5FD7FF" markedGenerate="false"/>
+      <object objectID="798CE977-EF12-A057-49F7-3EC313055363" markedGenerate="false"/>
+      <object objectID="3A5B900C-B0BA-68AE-2332-997075E4479D" markedGenerate="false"/>
+      <object objectID="3F9682D8-721D-CD87-1EAF-CDE841BD0761" markedGenerate="false"/>
+      <object objectID="28AEEF88-2F89-9F35-90DA-B45943CBF0A1" markedGenerate="false"/>
+      <object objectID="64777EBA-0448-6D1F-AB10-3A9E6B9DB535" markedGenerate="false"/>
+      <object objectID="05EA0C17-03A4-BFB3-F184-6EAEE8DBCD59" markedGenerate="false"/>
+      <object objectID="3B9A5FCB-BF74-108A-7D35-F040C971C975" markedGenerate="false"/>
+      <object objectID="FAD662F2-C0EE-9435-F7CD-4CDC71CEF49F" markedGenerate="false"/>
+      <object objectID="F40EA0E3-1BE2-59BF-3A7C-0D74E203E5F6" markedGenerate="true"/>
+      <object objectID="617E4A31-691A-7A02-E2F9-AF210B47EDC5" markedGenerate="false"/>
+      <object objectID="FC942352-A442-543C-75AE-38964496FAEE" markedGenerate="false"/>
+      <object objectID="B7003F6A-67A0-6A87-852F-15F54271E2CB" markedGenerate="false"/>
+      <object objectID="B6BD1674-2F31-440B-5BA5-2FFAF2D38E24" markedGenerate="true"/>
+      <object objectID="78F92357-7A8C-9E75-7092-6E845CCB290F" markedGenerate="true"/>
+      <object objectID="CB1841C3-E665-86E9-28CC-1B33B28FE31C" markedGenerate="true"/>
+      <object objectID="85A3C7B5-D831-4344-D5E9-08F7F65CE364" markedGenerate="true"/>
+      <object objectID="1F07213D-6BAD-CA1B-3570-0560D2959973" markedGenerate="true"/>
+      <object objectID="65F09214-F0A7-3105-F081-EDF909D42AD3" markedGenerate="true"/>
+      <object objectID="972EC245-A2A4-C339-712E-44C9E9AFB911" markedGenerate="true"/>
+      <object objectID="1B04A410-DA47-A0B2-3A5C-87F25234E9FC" markedGenerate="true"/>
+      <object objectID="7855815B-1323-3E8F-C78F-4E062776EA1D" markedGenerate="true"/>
+      <object objectID="2D8DC8D7-AB7E-7C34-D11F-303FDA2FB81E" markedGenerate="true"/>
+      <object objectID="CB067DC1-024C-11FB-3E2E-59CE192AEEF9" markedGenerate="true"/>
+      <object objectID="AF10CE9F-0037-5D6A-372C-F124DC29550E" markedGenerate="true"/>
+      <object objectID="8FC726B4-914F-7E29-1BA3-EA83A6185AB9" markedGenerate="true"/>
+      <object objectID="63AE1BD2-CCE8-A853-6D36-41E2787D52E1" markedGenerate="true"/>
+   </storageDesignObject>
+   <includeTableScripts/>
+   <namesSubstitution/>
+   <objectTypes>
+      <objectType isSelected="false" type="Schema"/>
+      <objectType isSelected="false" type="Table"/>
+   </objectTypes>
+   <OSDDM_DDLPP>
+      <db2_term_char db2_term_char=" "/>
+      <type_subst_triggers isSelected="true"/>
+      <fkarct_triggers isSelected="true"/>
+      <fk_none_transferable_triggers isSelected="true"/>
+      <show_char_byte_in_ddl isSelected="true"/>
+      <extended_size_for_chars isSelected="false"/>
+      <not_null_short_form_generation isSelected="false"/>
+      <use_quoted_identifiers isSelected="false"/>
+      <create_domains_during_import isSelected="true"/>
+      <generate_comments_in_rdbms isSelected="true"/>
+      <generate_inline_column_cc isSelected="false"/>
+      <generate_valid_value_cc isSelected="true"/>
+      <include_default_settings_in_ddl isSelected="true"/>
+      <include_logging_in_ddl isSelected="true"/>
+      <include_schema_in_ddl isSelected="true"/>
+      <include_storage_in_ddl isSelected="false"/>
+      <include_tablespace_in_ddl isSelected="false"/>
+      <automatic_pk_generation isSelected="false"/>
+      <automatic_uk_generation isSelected="false"/>
+      <automatic_fk_generation isSelected="false"/>
+      <include_pctfree_in_ddl isSelected="true"/>
+      <include_pctused_in_ddl isSelected="true"/>
+      <include_initrans_in_ddl isSelected="true"/>
+      <include_initialextent_in_ddl isSelected="true"/>
+      <include_nextextent_in_ddl isSelected="true"/>
+      <include_minextents_in_ddl isSelected="true"/>
+      <include_maxextents_in_ddl isSelected="true"/>
+      <include_pctincrease_in_ddl isSelected="true"/>
+      <include_bufferpool_in_ddl isSelected="true"/>
+      <include_freelists_in_ddl isSelected="true"/>
+      <include_freelistgroups_in_ddl isSelected="true"/>
+      <include_optimal_in_ddl isSelected="true"/>
+   </OSDDM_DDLPP>
+   <dropSelection>
+      <dropGeneratedObjectsOnly isSelected="true"/>
+      <useDropDependencies isSelected="false"/>
+      <dropableObject name="Tabelas" isSelected="false"/>
+      <dropableObject name="Índices" isSelected="false"/>
+      <dropableObject name="Chaves Estrangeiras" isSelected="false"/>
+      <dropableObject name="Views" isSelected="false"/>
+      <dropableObject name="Bancos de Dados" isSelected="false"/>
+   </dropSelection>
+</DatamodelerPersistedDDLSelection>

@@ -5,7 +5,7 @@
 <ownerDesignName>sge</ownerDesignName>
 <importedID>9ED0F705-E10A-B12E-EDBB-B1D92F97FF5E</importedID>
 <engineerTo>
-<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+<item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
 </engineerTo>
 <adequatelyNormalized>NO</adequatelyNormalized>
 <expectedVolumes>0</expectedVolumes>
@@ -25,7 +25,7 @@
 <ownerDesignName>sge</ownerDesignName>
 <importedID>8D87D374-21AC-0D13-647B-B95301F3A142</importedID>
 <engineerTo>
-<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+<item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
 </engineerTo>
 <useDomainConstraints>false</useDomainConstraints>
 <use>2</use>
@@ -41,7 +41,7 @@
 <ownerDesignName>sge</ownerDesignName>
 <importedID>48BEDDB6-3F16-D348-313D-B7B43CDE9A0F</importedID>
 <engineerTo>
-<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+<item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
 </engineerTo>
 <useDomainConstraints>false</useDomainConstraints>
 <use>2</use>
@@ -51,13 +51,26 @@
 <property name="engineerTo" value=""/>
 </propertyMap>
 </Attribute>
+<Attribute name="DS_NOME-FANTASIA" id="CABAA047-C236-A6AA-247A-C111095E89A6">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-26 20:25:54 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<engineerTo>
+<item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>AF10CE9F-0037-5D6A-372C-F124DC29550E</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
 <Attribute name="DT_CADASTRO" id="B437027A-8E5F-0A21-8207-15B3ED9B8743">
 <createdBy>nando</createdBy>
 <createdTime>2018-02-26 12:58:06 UTC</createdTime>
 <ownerDesignName>sge</ownerDesignName>
 <importedID>87A252A5-B6FE-6314-09A0-66304581344B</importedID>
 <engineerTo>
-<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+<item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
 </engineerTo>
 <useDomainConstraints>false</useDomainConstraints>
 <use>2</use>
@@ -73,7 +86,7 @@
 <ownerDesignName>sge</ownerDesignName>
 <importedID>A322F8CF-17F7-D1C8-D771-15805AA9C7C9</importedID>
 <engineerTo>
-<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+<item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
 </engineerTo>
 <useDomainConstraints>false</useDomainConstraints>
 <use>2</use>
@@ -89,7 +102,7 @@
 <ownerDesignName>sge</ownerDesignName>
 <importedID>F54F5A41-106A-569C-3001-692127CB24A0</importedID>
 <engineerTo>
-<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+<item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
 </engineerTo>
 <nullsAllowed>true</nullsAllowed>
 <useDomainConstraints>false</useDomainConstraints>
@@ -106,7 +119,7 @@
 <ownerDesignName>sge</ownerDesignName>
 <importedID>A4C20057-4D75-D7EE-B88F-882AB122AF0D</importedID>
 <engineerTo>
-<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+<item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
 </engineerTo>
 <nullsAllowed>true</nullsAllowed>
 <useDomainConstraints>false</useDomainConstraints>
@@ -123,7 +136,7 @@
 <ownerDesignName>sge</ownerDesignName>
 <importedID>D1E7DC51-FB1D-07E9-E61E-B159841021B7</importedID>
 <engineerTo>
-<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+<item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
 </engineerTo>
 <nullsAllowed>true</nullsAllowed>
 <useDomainConstraints>false</useDomainConstraints>
@@ -140,7 +153,7 @@
 <ownerDesignName>sge</ownerDesignName>
 <importedID>3B14E99B-9786-CEAF-C779-7F887F3AE302</importedID>
 <engineerTo>
-<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+<item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
 </engineerTo>
 <nullsAllowed>true</nullsAllowed>
 <useDomainConstraints>false</useDomainConstraints>
@@ -157,7 +170,7 @@
 <ownerDesignName>sge</ownerDesignName>
 <importedID>56D0E430-3CE8-7510-4EA7-DE0FA1F58AB6</importedID>
 <engineerTo>
-<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+<item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
 </engineerTo>
 <nullsAllowed>true</nullsAllowed>
 <useDomainConstraints>false</useDomainConstraints>
@@ -174,7 +187,7 @@
 <ownerDesignName>sge</ownerDesignName>
 <importedID>3B0F06B7-69AF-7E8C-AA63-D893ECCE0192</importedID>
 <engineerTo>
-<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+<item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
 </engineerTo>
 <nullsAllowed>true</nullsAllowed>
 <useDomainConstraints>false</useDomainConstraints>
@@ -191,7 +204,7 @@
 <ownerDesignName>sge</ownerDesignName>
 <importedID>60B441F8-CA16-983E-DAAD-1D361B073490</importedID>
 <engineerTo>
-<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+<item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
 </engineerTo>
 <nullsAllowed>true</nullsAllowed>
 <useDomainConstraints>false</useDomainConstraints>
@@ -208,7 +221,7 @@
 <ownerDesignName>sge</ownerDesignName>
 <importedID>4E0CDB20-8EA0-1E5D-21BB-E3EC334075BF</importedID>
 <engineerTo>
-<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+<item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
 </engineerTo>
 <nullsAllowed>true</nullsAllowed>
 <useDomainConstraints>false</useDomainConstraints>
@@ -225,7 +238,7 @@
 <ownerDesignName>sge</ownerDesignName>
 <importedID>D355097E-F241-FCAB-ADB2-34AD15535079</importedID>
 <engineerTo>
-<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+<item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
 </engineerTo>
 <nullsAllowed>true</nullsAllowed>
 <useDomainConstraints>false</useDomainConstraints>
@@ -242,9 +255,10 @@
 <createdBy>nando</createdBy>
 <createdTime>2018-02-26 12:58:06 UTC</createdTime>
 <ownerDesignName>sge</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
 <importedID>EEBAFDF4-4DA9-2B1B-FE6A-37ADF92B2060</importedID>
 <engineerTo>
-<item key="C53CD41E-5019-2EE3-7A34-1735E11EC8EB" value="true"/>
+<item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="false"/>
 </engineerTo>
 <pk>true</pk>
 <propertyMap>
