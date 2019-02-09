@@ -1,0 +1,42 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxySqlServerv2k5 class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.TableProxySqlServerv2k5" name="CLBSITUACAO" directorySegmentName="seg_0" id="26E66637-5E9B-D31E-35C8-27DD10589934">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-30 23:32:43 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<database>DB_NULLELEMENT</database>
+<columnProxies>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DT_CADASTRO" id="0BCEE06F-83DA-663D-6A5B-B6CB2535A753">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-30 23:32:43 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DS_SITUACAO" id="22ED4E3A-0868-5AA4-48DD-7001C7F5BBCC">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-30 23:32:43 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="CD_SITUACAO" id="421E87A6-84C6-27DC-1033-9AD049C6EBF8">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-30 23:32:43 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DT_ALTERACAO" id="9AD97805-35A4-E2B0-AE4C-DB57D81CCB31">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-30 23:32:43 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DT_EXCLUSAO" id="FE848299-E44F-434C-4C9E-F2C3EA7405FF">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-30 23:32:43 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.PKProxySqlServerv2k5" name="CLBSITUACAO_PK" id="D3768EF3-4898-A1BD-5707-BEE61A741A5C">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-30 23:32:43 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<clustered>true</clustered>
+</PrimaryKey>
+</primaryKeys>
+</TableProxySqlServerv2k5>

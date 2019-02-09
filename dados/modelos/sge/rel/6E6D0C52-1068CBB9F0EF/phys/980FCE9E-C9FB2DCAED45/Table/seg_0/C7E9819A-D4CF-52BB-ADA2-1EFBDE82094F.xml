@@ -1,0 +1,32 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxySqlServerv2k5 class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.TableProxySqlServerv2k5" name="SISCLASSE" directorySegmentName="seg_0" id="C7E9819A-D4CF-52BB-ADA2-1EFBDE82094F">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-30 23:13:12 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<database>DB_NULLELEMENT</database>
+<columnProxies>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DS_CLASSE" id="79A320E0-4C97-17BB-CA9A-49F4AFFA1AE3">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-30 23:13:12 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="CD_CLASSE" id="8AFA4BB2-7327-635A-6F74-953CC47809F1">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-30 23:13:12 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="DS_CLSID" id="EDBFA5E6-9432-B8E5-BF53-CDC25EFE7D83">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-30 23:13:12 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.PKProxySqlServerv2k5" name="SISCLASSE_PK" id="F22631AD-9B2A-EC5E-A9EA-E10016EFD3FB">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-30 23:13:12 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<clustered>true</clustered>
+</PrimaryKey>
+</primaryKeys>
+</TableProxySqlServerv2k5>

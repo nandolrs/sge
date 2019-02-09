@@ -1,0 +1,70 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="EEA070D6-350D-832D-3A17-EC280F9EB830" name="SISCLASSE">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-30 23:10:38 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<engineerTo>
+<item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="CD_CLASSE" id="3DCD562D-F943-5A97-6851-0C1A363D83AE">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-30 23:10:55 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<engineerTo>
+<item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="DS_CLASSE" id="60167AD5-F1EF-4E7D-3C75-56788CF0F17B">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-30 23:11:17 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<engineerTo>
+<item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>AF10CE9F-0037-5D6A-372C-F124DC29550E</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="DS_CLSID" id="2F339B2B-5671-86D0-E697-64DC1D288842">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-30 23:11:59 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<engineerTo>
+<item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>CB067DC1-024C-11FB-3E2E-59CE192AEEF9</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="DE0E4F88-F53C-1370-C468-B0099F02F02D" name="SISCLASSE PK">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-30 23:11:14 UTC</createdTime>
+<ownerDesignName>sge</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
+<engineerTo>
+<item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="false"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>3DCD562D-F943-5A97-6851-0C1A363D83AE</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

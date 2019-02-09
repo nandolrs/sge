@@ -1,0 +1,59 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="C7E9819A-D4CF-52BB-ADA2-1EFBDE82094F" name="SISCLASSE">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-30 23:13:12 UTC</createdTime>
+<generatorID>EEA070D6-350D-832D-3A17-EC280F9EB830</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="CD_CLASSE" id="8AFA4BB2-7327-635A-6F74-953CC47809F1">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-30 23:13:12 UTC</createdTime>
+<generatorID>3DCD562D-F943-5A97-6851-0C1A363D83AE</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DS_CLASSE" id="79A320E0-4C97-17BB-CA9A-49F4AFFA1AE3">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-30 23:13:12 UTC</createdTime>
+<generatorID>60167AD5-F1EF-4E7D-3C75-56788CF0F17B</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>AF10CE9F-0037-5D6A-372C-F124DC29550E</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DS_CLSID" id="EDBFA5E6-9432-B8E5-BF53-CDC25EFE7D83">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-30 23:13:12 UTC</createdTime>
+<generatorID>2F339B2B-5671-86D0-E697-64DC1D288842</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>2</use>
+<distinctType>CB067DC1-024C-11FB-3E2E-59CE192AEEF9</distinctType>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="F22631AD-9B2A-EC5E-A9EA-E10016EFD3FB" name="SISCLASSE_PK">
+<createdBy>nando</createdBy>
+<createdTime>2019-01-30 23:13:12 UTC</createdTime>
+<generatorID>DE0E4F88-F53C-1370-C468-B0099F02F02D</generatorID>
+<ownerDesignName>sge</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="8AFA4BB2-7327-635A-6F74-953CC47809F1"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

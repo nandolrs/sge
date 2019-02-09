@@ -1,9 +1,8 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
-<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="40E1A256-CD4A-4F8D-9A3F-5A7362B2CD93" name="SEGUSUARIOPESSOA">
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="C4EFA2FA-7199-21BA-AC48-C6BCE4A81871" name="CLBSITUACAO">
 <createdBy>nando</createdBy>
-<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<createdTime>2019-01-30 22:56:21 UTC</createdTime>
 <ownerDesignName>sge</ownerDesignName>
-<importedID>67730336-92C1-B131-2C26-E51AB8D80DA1</importedID>
 <engineerTo>
 <item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
 </engineerTo>
@@ -15,15 +14,11 @@
 <maxVolumes>9999999</maxVolumes>
 <minVolumes>0</minVolumes>
 <normalForm>Third</normalForm>
-<propertyMap>
-<property name="engineerTo" value=""/>
-</propertyMap>
 <attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
-<Attribute name="CD_USUARIOPESSOA" id="54252D92-AD28-34FF-3B5A-791FC55CB0E6">
+<Attribute name="CD_SITUACAO" id="7C217CD1-6D96-05D9-2DFD-C597D328BE3C">
 <createdBy>nando</createdBy>
-<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<createdTime>2019-01-30 22:56:37 UTC</createdTime>
 <ownerDesignName>sge</ownerDesignName>
-<importedID>1CB672ED-DDD3-CADB-F69C-E2F5F1937AF7</importedID>
 <engineerTo>
 <item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
 </engineerTo>
@@ -31,15 +26,11 @@
 <use>2</use>
 <distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
-<propertyMap>
-<property name="engineerTo" value=""/>
-</propertyMap>
 </Attribute>
-<Attribute name="DS_USUARIOPESSOA" id="F9610C1F-A43B-4E36-39A9-8CB4A22CEC43">
+<Attribute name="DS_SITUACAO" id="6C54FE24-DB1C-0074-8B6A-2D7C86843532">
 <createdBy>nando</createdBy>
-<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<createdTime>2019-01-30 22:57:09 UTC</createdTime>
 <ownerDesignName>sge</ownerDesignName>
-<importedID>49CC78EF-BF07-C613-9449-0C16EC6D2FC6</importedID>
 <engineerTo>
 <item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
 </engineerTo>
@@ -47,15 +38,11 @@
 <use>2</use>
 <distinctType>AF10CE9F-0037-5D6A-372C-F124DC29550E</distinctType>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
-<propertyMap>
-<property name="engineerTo" value=""/>
-</propertyMap>
 </Attribute>
-<Attribute name="DT_CADASTRO" id="9614D92E-E18B-ABFA-FCB9-CEEBAD1D913E">
+<Attribute name="DT_CADASTRO" id="9408612E-7242-94D2-E6EB-32BDF2E27208">
 <createdBy>nando</createdBy>
-<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<createdTime>2019-01-30 22:58:42 UTC</createdTime>
 <ownerDesignName>sge</ownerDesignName>
-<importedID>B9584877-2FDF-6221-DC21-901B285C0C65</importedID>
 <engineerTo>
 <item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
 </engineerTo>
@@ -63,15 +50,11 @@
 <use>2</use>
 <distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
-<propertyMap>
-<property name="engineerTo" value=""/>
-</propertyMap>
 </Attribute>
-<Attribute name="DT_ALTERACAO" id="784CE88E-6E3B-2516-D531-3916279E73B9">
+<Attribute name="DT_ALTERACAO" id="9D4F008B-AC09-BD15-4A90-E6BBF61B14F0">
 <createdBy>nando</createdBy>
-<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<createdTime>2019-01-30 22:58:55 UTC</createdTime>
 <ownerDesignName>sge</ownerDesignName>
-<importedID>CDBCE59F-905C-4546-3826-21FDE98E2F6C</importedID>
 <engineerTo>
 <item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
 </engineerTo>
@@ -79,15 +62,11 @@
 <use>2</use>
 <distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
-<propertyMap>
-<property name="engineerTo" value=""/>
-</propertyMap>
 </Attribute>
-<Attribute name="DT_EXCLUSAO" id="765B1D4F-35C9-828F-3804-84F6330905FF">
+<Attribute name="DT_EXCLUSAO" id="3D1B3A40-3B48-8EEE-9CD3-45E5304D06C7">
 <createdBy>nando</createdBy>
-<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<createdTime>2019-01-30 22:59:52 UTC</createdTime>
 <ownerDesignName>sge</ownerDesignName>
-<importedID>98917033-D374-079A-9004-A77608A883C7</importedID>
 <engineerTo>
 <item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
 </engineerTo>
@@ -96,45 +75,20 @@
 <use>2</use>
 <distinctType>65F09214-F0A7-3105-F081-EDF909D42AD3</distinctType>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
-<propertyMap>
-<property name="engineerTo" value=""/>
-</propertyMap>
-</Attribute>
-<Attribute name="CD_PESSOA" id="BDEFDC24-1021-DAB6-7B02-3ADC8AC45AD7">
-<createdBy>nando</createdBy>
-<createdTime>2018-02-26 12:58:06 UTC</createdTime>
-<generatorID>B83DD36C-9602-3871-74A5-CEDA9CEB0884</generatorID>
-<ownerDesignName>sge</ownerDesignName>
-<importedID>55A3EF4D-E276-1D9C-EAB3-2D7D1B1A4B23</importedID>
-<engineerTo>
-<item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="true"/>
-</engineerTo>
-<referedAttribute>1F565572-4F39-5C3F-5CD1-32445E245A54</referedAttribute>
-<useDomainConstraints>false</useDomainConstraints>
-<use>2</use>
-<distinctType>85A3C7B5-D831-4344-D5E9-08F7F65CE364</distinctType>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
-<propertyMap>
-<property name="engineerTo" value=""/>
-</propertyMap>
 </Attribute>
 </attributes>
 <identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
-<identifier id="CEA94B84-49B5-3F82-5231-503B4FD0F0F7" name="SEGUSUARIOINSTITUICAO PK">
+<identifier id="D52E68A3-33C1-69DD-BE51-EED519B0CFE4" name="CLBSITUACAO PK">
 <createdBy>nando</createdBy>
-<createdTime>2018-02-26 12:58:06 UTC</createdTime>
+<createdTime>2019-01-30 22:57:00 UTC</createdTime>
 <ownerDesignName>sge</ownerDesignName>
 <shouldEngineer>false</shouldEngineer>
-<importedID>03861C4F-A9AE-B120-D471-49B07E211AA3</importedID>
 <engineerTo>
 <item key="6E6D0C52-A8EE-E0CF-80FA-1068CBB9F0EF" value="false"/>
 </engineerTo>
 <pk>true</pk>
-<propertyMap>
-<property name="engineerTo" value=""/>
-</propertyMap>
 <usedAttributes>
-<attributeRef>54252D92-AD28-34FF-3B5A-791FC55CB0E6</attributeRef>
+<attributeRef>7C217CD1-6D96-05D9-2DFD-C597D328BE3C</attributeRef>
 </usedAttributes>
 </identifier>
 </identifiers>

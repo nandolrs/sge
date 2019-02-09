@@ -1,6 +1,7 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <oracle.dbtools.crest.model.design.relational.RelationalDesign>
    <object objectType="main_view" objectID="66D7EE91-2B2E-741F-D7AE-04102B6AD904" name="Relational_1" visible="false"/>
+   <object objectType="sub_view" objectID="3486D620-ECD3-7DB2-4941-C8D910DF49CA" name="BUILD01" visible="true"/>
    <object objectType="sub_view" objectID="99574762-3A4E-E09E-7816-CB69997DE356" name="From_LM_CLB" visible="false"/>
    <object objectType="sub_view" objectID="C64EB163-BF8B-1586-2368-CB4985F692A5" name="From_LM_COM" visible="false"/>
    <object objectType="sub_view" objectID="194295B8-7FDB-9980-BB84-44FC76FBE035" name="From_LM_COM_RELACOES" visible="false"/>
@@ -12,5 +13,5 @@
    <object objectType="sub_view" objectID="03524E24-9189-2668-5588-9AA3E293D3C2" name="From_LM_ORC" visible="false"/>
    <object objectType="sub_view" objectID="86ADF45D-3F15-1E49-B607-233CD3BD248A" name="From_LM_REP" visible="false"/>
    <object objectType="sub_view" objectID="87DC3C97-FC58-651C-78E2-F14A9F0B2697" name="From_LM_SEG" visible="false"/>
-   <object objectType="sub_view" objectID="3486D620-ECD3-7DB2-4941-C8D910DF49CA" name="PCS_01" visible="true"/>
+   <object objectType="sub_view" objectID="A88B58B2-D630-F352-54AD-8890897C36DF" name="From_LM_SIS" visible="false"/>
 </oracle.dbtools.crest.model.design.relational.RelationalDesign>
